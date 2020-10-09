@@ -79,9 +79,9 @@ It may be a week, a month or ten years.
 
 But one thing for sure is that, with the collective intelligence of Internet users, we may soon see the dawn of the technological singularity.
 
-What do we do after that?
+- What do we do after that?
 
-That will be the story for another day.
+_That would be the story for another day ..._
 
 
 
