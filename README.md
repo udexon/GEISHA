@@ -1,6 +1,8 @@
 # GEISHA
 Graph Enhanced Intelligent Search with Homoiconic Action
 
+&smash; (finally a very promising attempt) towards Technological Singularity
+
 - _Calling this algorithm GEISHA carries a certain manga cyberpunk nuance, as if the AI system that we wish to create will serve human like a real world Japanese geisha._
 
 Conventional artificial intelligence algorithms may be broadly classified into robotic and non-robotic categories, although of course adherents of particular disciplines may express differing opinions.
