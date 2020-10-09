@@ -37,7 +37,7 @@ Or any equivalent function in any programming language.
 
 - g) As such, we have demonstrated that graph search may be used to construct relationships and the target objects of such relationship of a search subject.
 
-We may call this technique ___"bottom up tree traversal relationship construction"___ (BUTTECON), as the search subject can be viewed as the leaf node of a tree containing many other related objects (nodes).
+We may call this technique ___"bottom up tree traversal relationship construction"___ (BUTTERCON), as the search subject can be viewed as the leaf node of a tree containing many other related objects (nodes).
 
 - h) Next, the search results described above is used to construct a conditional variable C1 which is used to map to an action A1.
 
@@ -47,7 +47,7 @@ Then A1 would be:
   - _search C1 for his phone number._
 
 
-- i) Action A1 has to be a homoiconic graph function (HGF):
+- i) Action A1 has to be a homoiconic graph function (HGF), which is defined as:
   - 1) A function in C/C++ or equivalent programming language is homoiconified using Phoscript Inverse Shunting Yard algorithm (see item (j) for explanations). 
   - 2) The homoiconified function word is stored in GDB.
 
