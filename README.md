@@ -47,17 +47,14 @@ Then A1 would be:
   - search C1 for his phone number.
 
 - i) Action A1 has to be a homoiconic graph function (HGF):
-  - 1) A function in C/C++ or equivalent programming language is homoiconified using Phoscript Inverse Shunting Yard algorithm. 
+  - 1) A function in C/C++ or equivalent programming language is homoiconified using Phoscript Inverse Shunting Yard algorithm (see item (j) for explanations). 
   - 2) The homoiconified function word is stored in GDB.
 
 
-5) 
+- j) Here is the example of using Forth / Phoscript to interface to C++ SymEngine computer algebra library.
+  - https://github.com/udexon/SymForth
+  - [Phoscript Tutorials](https://github.com/udexon/Multiweb/blob/master/Phoscript_Tutorials.md) 
 
-[Phoscript Tutorials](https://github.com/udexon/Multiweb/blob/master/Phoscript_Tutorials.md) 
-
-Here is the example of using Forth / Phoscript to interface to C++ SymEngine computer algebra library.
-
-https://github.com/udexon/SymForth
 
 
 
