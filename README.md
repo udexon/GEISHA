@@ -37,6 +37,8 @@ Or any equivalent function in any programming language.
 
 - g) As such, we have demonstrated that graph search may be used to construct relationships and the target objects of such relationship of a search subject.
 
+We may call this technique ___"bottom up tree traversal relationship construction"___, as the search subject can be viewed as the leaf node of a tree containing many other related objects (nodes).
+
 - h) Next, the search results described above is used to construct a conditional variable C1 which is used to map to an action A1.
 
 To illustrate, a human person may think, "if he is a cook, then I will call him when I need to employ one."
