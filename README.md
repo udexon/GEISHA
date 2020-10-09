@@ -1,7 +1,7 @@
 # GEISHA
 Graph Enhanced Intelligent Search with Homoiconic Action
 
-&smash; (finally a very promising attempt) towards Technological Singularity
+&mdash; (finally a very promising attempt) towards Technological Singularity
 
 - _Calling this algorithm GEISHA carries a certain manga cyberpunk nuance, as if the AI system that we wish to create will serve human like a real world Japanese geisha._
 
