@@ -75,7 +75,7 @@ The exciting news are that the inputs to both BUTTERCON and HGF are literally th
 
 As such, we just need to patiently construct the set of rules R matching conditions C to actions A, at first manually and slowly, until we hit the point of avalanche when GEISHA can automatically construct the rule sets R.
 
-How long would that be?
+- How long would that be?
 
 It may be a week, a month or ten years.
 
