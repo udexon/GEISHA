@@ -9,9 +9,9 @@ Conventional artificial intelligence algorithms may be broadly classified into r
 
 A fundamental question based on the categorisation above postulates:
 
-- Since robots mimick human beings, is robotics more promising in achieving human level artificial intelligence (HLAI) first, before non-robotic category?
+- Since robots mimick human beings, are robotics algorithms more promising in achieving human level artificial intelligence (HLAI) first, before those of the non-robotic category?
 
-We believe we have conceived an algorithm that is applicable to both robotic and non-robotic AI, tentatively named "Graph Search and Act" (GSA):
+We believe we have conceived an algorithm that is applicable to both robotic and non-robotic AI, tentatively named "Graph Search and Homoiconic Action" (GEISHA):
 
 1) We model the human mind with a graph database (GDB).
 
