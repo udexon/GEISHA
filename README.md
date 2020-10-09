@@ -1,5 +1,5 @@
 # GEISHA
-Graph Enhanced Intelligent Search with Homoiconic Action
+Graph Enhanced Intelligent Search with Homoiconic Actions
 
 &mdash; _(finally a very promising attempt)_ towards Technological Singularity
 
