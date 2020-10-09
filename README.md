@@ -42,7 +42,7 @@ Or any equivalent function in any programming language.
 To illustrate, a human person may think, "if he is a cook, then I will call him when I need to employ one."
 
 Then A1 would be:
-- search C1 for his phone number.
+  - search C1 for his phone number.
 
 - i) Action A1 has to be a homoiconic graph function (HGF):
   - 1) A function in C/C++ or equivalent programming language is homoiconified using Phoscript Inverse Shunting Yard algorithm. 
