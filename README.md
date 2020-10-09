@@ -3,7 +3,7 @@ Graph (EI?) Search Homoiconic Action
 
 Graph Search Homoiconic Action GEISHA
 
-- Calling this algorithm GEISHA carries a manga cyberpunk nuance, as if the AI system that we wish to create will serve human like a real world Japanese geisha.
+- _Calling this algorithm GEISHA carries a manga cyberpunk nuance, as if the AI system that we wish to create will serve human like a real world Japanese geisha._
 
 Conventional artificial intelligence algorithms may be broadly classified into robotic and non-robotic categories, although of course adherents of particular disciplines may express differing opinions.
 
