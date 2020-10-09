@@ -19,7 +19,7 @@ We believe we have conceived an algorithm that is applicable to both robotic and
 
 3) Let us illustrate a graph search with the following example:
 
-- a) A CSV, F1, file contains a record of a person who is a cook. F1 is linked to GDB by its full Linux path name (directory and filename), which is stored as a JSON string.
+- a) A CSV file F1 contains a record of a person who is a cook. F1 is linked to GDB by its full Linux path name (directory and filename), which is stored as a JSON string.
 
 - b) A search is triggered when the AI system AI1 receives a chat message from user U1 "where can I find a cook?"
 
@@ -44,7 +44,7 @@ We may call this technique ___"bottom up tree traversal relationship constructio
 To illustrate, a human person may think, "if he is a cook, then I will call him when I need to employ one."
 
 Then A1 would be:
-  - search C1 for his phone number.
+  - _search C1 for his phone number._
 
 
 - i) Action A1 has to be a homoiconic graph function (HGF):
@@ -52,7 +52,7 @@ Then A1 would be:
   - 2) The homoiconified function word is stored in GDB.
 
 
-- j) Here is the example of using Forth / Phoscript to interface to C++ SymEngine computer algebra library.
+- j) Here is an example of using Forth / Phoscript to interface to C++ SymEngine computer algebra library:
   - https://github.com/udexon/SymForth
   - [Phoscript Tutorials](https://github.com/udexon/Multiweb/blob/master/Phoscript_Tutorials.md) 
 
@@ -63,7 +63,7 @@ The main novelties of GEISHA are
 
 - Bottom up tree traversal relationship construction Buttercon
 
-Homoiconified graph functions
+- Homoiconified Graph Functions (HGF)
 
 Are these algorithms unprecedentedly novel? 
 
@@ -83,7 +83,7 @@ But one thing for sure is that, with the collective intelligence of Internet use
 
 - What do we do after that?
 
-_That would be the story for another day ..._
+_That would be a story for another day ..._
 
 
 
