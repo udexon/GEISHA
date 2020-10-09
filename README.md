@@ -1,9 +1,7 @@
 # GEISHA
 Graph Enhanced Intelligent Search with Homoiconic Action
 
-Graph Search Homoiconic Action GEISHA
-
-- _Calling this algorithm GEISHA carries a manga cyberpunk nuance, as if the AI system that we wish to create will serve human like a real world Japanese geisha._
+- _Calling this algorithm GEISHA carries a certain manga cyberpunk nuance, as if the AI system that we wish to create will serve human like a real world Japanese geisha._
 
 Conventional artificial intelligence algorithms may be broadly classified into robotic and non-robotic categories, although of course adherents of particular disciplines may express differing opinions.
 
@@ -37,7 +35,7 @@ Or any equivalent function in any programming language.
 
 - g) As such, we have demonstrated that graph search may be used to construct relationships and the target objects of such relationship of a search subject.
 
-We may call this technique ___"bottom up tree traversal relationship construction"___, as the search subject can be viewed as the leaf node of a tree containing many other related objects (nodes).
+We may call this technique ___"bottom up tree traversal relationship construction"___ (BUTTECON), as the search subject can be viewed as the leaf node of a tree containing many other related objects (nodes).
 
 - h) Next, the search results described above is used to construct a conditional variable C1 which is used to map to an action A1.
 
@@ -57,11 +55,11 @@ Then A1 would be:
   - [Phoscript Tutorials](https://github.com/udexon/Multiweb/blob/master/Phoscript_Tutorials.md) 
 
 
-
+## Towards Technological Singularity
 
 The main novelties of GEISHA are
 
-Bottom up tree traversal relationship construction Buttercon
+- Bottom up tree traversal relationship construction Buttercon
 
 Homoiconified graph functions
 
