@@ -1,5 +1,5 @@
 # GEISHA
-Graph (EI?) Search Homoiconic Action
+Graph Enhanced Intelligent Search with Homoiconic Action
 
 Graph Search Homoiconic Action GEISHA
 
@@ -46,6 +46,7 @@ To illustrate, a human person may think, "if he is a cook, then I will call him 
 Then A1 would be:
   - search C1 for his phone number.
 
+
 - i) Action A1 has to be a homoiconic graph function (HGF):
   - 1) A function in C/C++ or equivalent programming language is homoiconified using Phoscript Inverse Shunting Yard algorithm (see item (j) for explanations). 
   - 2) The homoiconified function word is stored in GDB.
@@ -55,6 +56,42 @@ Then A1 would be:
   - https://github.com/udexon/SymForth
   - [Phoscript Tutorials](https://github.com/udexon/Multiweb/blob/master/Phoscript_Tutorials.md) 
 
+
+
+
+The main novelties of GEISHA are
+
+Bottom up tree traversal relationship construction Buttercon
+
+Homoiconified graph functions
+
+Are these algorithms unprecedentedly novel? 
+
+We shall find out after the almighty Internet users help us with literature review after we have posted this article.
+
+More importantly are the next steps towards realizing HLAI with GEISHA.
+
+The exciting news are that the inputs to both BUTTERCON and HGF are literally the entirety of Internet itself!!
+
+As such, we just need to patiently construct the set of rules R matching conditions C to actions A, at first manually and slowly, until we hit the point of avalanche when GEISHA can automatically construct the rule sets R.
+
+How long would that be?
+
+It may be a week, a month or ten years.
+
+But one thing for sure is that, with the collective intelligence of Internet users, we may soon see the dawn of the technological singularity.
+
+What do we do after that?
+
+That will be the story for another day.
+
+
+
+
+
+
+
+ 
 
 
 
