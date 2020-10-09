@@ -51,7 +51,11 @@ Then A1 would be:
 
 5) 
 
+[Phoscript Tutorials](https://github.com/udexon/Multiweb/blob/master/Phoscript_Tutorials.md) 
 
+Here is the example of using Forth / Phoscript to interface to C++ SymEngine computer algebra library.
+
+https://github.com/udexon/SymForth
 
 
 
