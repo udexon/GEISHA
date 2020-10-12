@@ -14,6 +14,8 @@ Referring to the JavaScript OpenCV video snapshot example, we wish to illustrate
 
 Due to the prevalence and dominance of the conventional computing architecture, few people would have thought of collaborating on a "simple" OpenCV program, comprising only rudimentary functions such as thresholding, smoothing, colour space transform etc.
 
+We are only using this seemingly trivial example to illustrate how multiple programmers may collaborate using GEISHA, and then we wish to convince the readers of the usefulness of GEISHA when the number of programmers involved in collaboration scales towards 1 million and beyond.
+
 Define intelligence in terms of threats and opportunities, to benefits and survival of self.
 
 Micro entity may have self awareness.
