@@ -7,7 +7,13 @@ Intelligence may arise as large number of users on internet use Phos to process 
 
 Image to vocabulary annotation (derive key) can be manual. Then key may trigger other process.
 
-https://codepen.io/huningxin/pen/ReMezx
+In this tutorial, we will show you how to convert a conventional JavaScript OpenCV video processing web page into a PhosCV + PhosGraph graph database module, to demonstrate the Collective Intelligence model that we described above.
+
+1) At first, we forked the code from Hu Ningxin's "video pipeline test" project from Codepen:
+
+- https://codepen.io/huningxin/pen/ReMezx
+
+2) After making some minor changes (see ... for details), notably removing the grey scale conversion, so that the output image is just a snap shot of the video stream when "Stop" is pressed:
 
 <img src="https://github.com/udexon/GEISHA/blob/main/img/PhosCV_Start.png" width=600>
 
