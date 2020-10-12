@@ -7,7 +7,15 @@ Intelligence may arise as large number of users on internet use Phos to process 
 
 Image to vocabulary annotation (derive key) can be manual. Then key may trigger other process.
 
+https://codepen.io/huningxin/pen/ReMezx
 
+<img src="https://github.com/udexon/GEISHA/blob/main/img/PhosCV_Start.png" width=600>
+
+<img src="https://github.com/udexon/GEISHA/blob/main/img/PhosCV_Snap.png" width=600>
+
+<img src="https://github.com/udexon/GEISHA/blob/main/img/PhosCV_ajax_auth.png" width=600>
+
+<img src="https://github.com/udexon/GEISHA/blob/main/img/PhosCV_nick.png" width=600>
 
 https://stackoverflow.com/questions/13198131/how-to-save-an-html5-canvas-as-an-image-on-a-server
 
