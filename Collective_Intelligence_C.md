@@ -8,9 +8,11 @@ We may draw parallels of GEISHA to what we know of human brain, made up of billi
 
 While existing systems that are commonly classified as "neural networks" exhibit "small node open access" with the program, the internal data are not available for open access in general.
 
-Referring to the JavaScript OpenCV video snapshot example, we wish to illustrate how cumulative and collaborative intelligence may arise when large number of users or programmers collaborate using GEISHA.
+## Incrementally Building an OpenCV Program, Collaboratively
 
+Referring to the JavaScript OpenCV video snapshot example, we wish to illustrate how _cumulative and collaborative intelligence_ may arise when large number of users or programmers collaborate using GEISHA.
 
+Due to the prevalence and dominance of the conventional computing architecture, few people would have thought of collaborating on a "simple" OpenCV program, comprising only rudimentary functions such as thresholding, smoothing, colour space transform etc.
 
 Define intelligence in terms of threats and opportunities, to benefits and survival of self.
 
