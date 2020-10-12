@@ -32,9 +32,9 @@ var photo = canvasOutput.toDataURL('image/jpeg');
 U({photo: photo}) // send JSON
 ```
 
-<img src="https://github.com/udexon/GEISHA/blob/main/img/log_files.png" width=400>
+<img src="https://github.com/udexon/GEISHA/blob/main/img/log_files.png" width=600>
 
-<img src="https://github.com/udexon/GEISHA/blob/main/img/image_json.png" width=400>
+<img src="https://github.com/udexon/GEISHA/blob/main/img/image_json.png" width=600>
 
 
 <img src="https://github.com/udexon/GEISHA/blob/main/img/PhosCV_ajax_auth.png" width=400>
