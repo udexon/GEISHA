@@ -23,6 +23,15 @@ What we did essentially was to take a snapshot from a video stream of a camera d
 - Figure 2: "Stop" has been pressed. Image in `canvasOutput` is frozen.
 <img src="https://github.com/udexon/GEISHA/blob/main/img/PhosCV_Snap.png" width=600>
 
+3) The image data from `canvasOutput` is stored into `var photo` after being converted using `.toDataURL()`.
+
+`U()` is a PhosGraph function to send JSON from the browser front end to the back end server.
+
+```js
+var photo = canvasOutput.toDataURL('image/jpeg');   
+U({photo: photo}) // send JSON
+```
+
 <img src="https://github.com/udexon/GEISHA/blob/main/img/PhosCV_ajax_auth.png" width=600>
 
 <img src="https://github.com/udexon/GEISHA/blob/main/img/PhosCV_nick.png" width=600>
