@@ -31,6 +31,21 @@ Now imagine how you would do the following:
 - start with program A, incrementally make changes to create program B
 - start with program B, deconstruct it into components and create program A
 
+Without using novel principles such as GEISHA, you may not be able to derive anything interesting ideas from the two problems described above. 
+
+With GEISHA however, imagine now instead of being ONE single program like program B, we now have several _function words_, each corresponding to a feature in program B, and the output of the function words are available for open access via a graph database mechanism to other function words.
+
+In this example, the number of function words may just be around a dozen or so. 
+
+What if we continue to expand the set of function words to include other robotic functions, from kinematics to various types of sensors. This may increase the number of function words to several thousands.
+
+Some readers may ask, is this not simply changing the API of existing functions to reverse rolish notation / stack machine? What actual benefits can it bring besides being obviously a layer of syntactic sugar?
+
+Indeed, transforming functions in existing programming languages into Phos function words would merely be a layer of syntactic sugar, if they are not integrated into the graph database, where live functions triggered by graph database events may match Phos words to conditional variables, besides composing new Phos words or decomposing existing Phos words into their component words. 
+
+
+
+
 Define intelligence in terms of threats and opportunities, to benefits and survival of self.
 
 Micro entity may have self awareness.
