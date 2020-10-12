@@ -16,6 +16,21 @@ Due to the prevalence and dominance of the conventional computing architecture, 
 
 We are only using this seemingly trivial example to illustrate how multiple programmers may collaborate using GEISHA, and then we wish to convince the readers of the usefulness of GEISHA when the number of programmers involved in collaboration scales towards 1 million and beyond.
 
+To appreciate the benefits of incrementally building an OpenCV program by a group of programmers, let us look at Hu Ningxin's other OpenCV JS video-processing example (let's call this Program B) that consists of more functions:
+
+<img src="https://github.com/udexon/GEISHA/blob/main/img/OCVJS_video.png" width=600>
+
+- https://github.com/huningxin/opencv.js/blob/master/samples/video-processing/js/index.js
+- https://github.com/huningxin/opencv.js/blob/master/samples/video-processing/index.html
+- https://github.com/huningxin/opencv.js
+
+Let's call the earlier example program A.
+
+Now imagine how you would do the following:
+
+- start with program A, incrementally make changes to create program B
+- start with program B, deconstruct it into components and create program A
+
 Define intelligence in terms of threats and opportunities, to benefits and survival of self.
 
 Micro entity may have self awareness.
