@@ -43,7 +43,7 @@ U({photo: photo}) // send JSON
 <img src="https://github.com/udexon/GEISHA/blob/main/img/image_json.png" width=600>
 
 
-## C. Small Nodes and Many Connections
+## C. [Small Nodes and Many Connections](https://github.com/udexon/GEISHA/blob/main/Collective_Intelligence_C.md)
 
 
 ## D. PhosCV / PhosGraph Details
