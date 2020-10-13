@@ -43,10 +43,16 @@ Some readers may ask, is this not simply changing the API of existing functions 
 
 Indeed, transforming functions in existing programming languages into Phos function words would merely be a layer of syntactic sugar, if they are not integrated into the graph database, where live functions triggered by graph database events may match Phos words to conditional variables, besides composing new Phos words or decomposing existing Phos words into their component words. 
 
+Graph database events trigger new words ...
+
+4. See example in README.
+
+5. Describe examples multiple programmers can produce using GEISHA, with timelines. 
+
+6. Why no breakthrough since Dartmouth AI conference?
 
 
-
-Define intelligence in terms of threats and opportunities, to benefits and survival of self.
+7. Define intelligence in terms of threats and opportunities, to benefits and survival of self.
 
 Micro entity may have self awareness.
 
@@ -54,7 +60,7 @@ Macro entity may not, or may, against bigger environment. Earth vs. Internet.
 
 The rules are like flowing water. Transfer of energy, high price to low price. Etc.
 
-The Tao of Geisha. Bad name.
+8. The Tao of Geisha. Bad name.
 
 The Tao of PhosBrain ??
 
