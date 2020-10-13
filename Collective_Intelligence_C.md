@@ -26,7 +26,7 @@ To appreciate the benefits of incrementally building an OpenCV program by a grou
 
 Let's call the earlier example [program A](https://github.com/udexon/GEISHA/blob/main/Collective_Intelligence_%E9%9B%86%E6%80%9D%E5%B9%BF%E7%9B%8A.md#b-demonstration-with-javascript-opencv).
 
-<img src="https://github.com/udexon/GEISHA/blob/main/img/PhosCV_Start.png" width=60
+<img src="https://github.com/udexon/GEISHA/blob/main/img/PhosCV_Start.png" width=600>
 
 Now imagine how you would do the following:
 
