@@ -54,6 +54,14 @@ Graph database events trigger new words ...
 
 7. Define intelligence in terms of threats and opportunities, to benefits and survival of self.
 
+- a. Compare threats and opportunities in existing world + Internet WITHOUT GEISHA vs. world + Internet WITH GEISHA:
+
+Harder to get jobs for old people, as knowledge and skills become easier to gain via technologies, but welfare could not catch up with technologies.
+
+Will it get worse with GEISHA? Extrapolate from threats and benefits in model WITHOUT GEISHA to model WITH GEISHA, e.g. jobs (benefitting some not but others) &mdash; existing threats and benefits; THEN conceive new threats and benefits WITH GEISHA.
+
+What about investment, agriculture, etc? Small robots for small farmers?
+
 Micro entity may have self awareness.
 
 Macro entity may not, or may, against bigger environment. Earth vs. Internet.
