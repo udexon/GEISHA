@@ -47,6 +47,39 @@ Indeed, transforming functions in existing programming languages into Phos funct
 
 Graph database events trigger new words ...
 
+Can GEISHA produce humanoid, simulated humanoid, formless AI, or other types of AI?
+
+> Geisha can clone all types of existing AI or robotic systems and improve them
+
+Besides low level OpenCV functions as shown in programs A and B, GEISHA may also be used to integrate much bigger and complex programs such as humanoid simulators, or complete social media services (front end and back end).
+
+Essentially, Phoscript uses a single string word without space to address a function in the host programming language, and uses stacks to pass data between functions. As such it greatly simplifies the execution and modification of functions, making it possible to modify them easily while in execution, an achievement not possible using conventional programming languages. 
+
+Although such mechanisms (opcode, stack and stack machine) are available at the interpreter level of most programming languages, they are not available to programmers as API. Phoscript effectively creates a high level stack machine, much like a sandwich, where the bread at the bottom represent the interpreter / compiler, the meat and vegetables in the middle represent source code, and the bread at the top is Phoscript code.
+
+This alone is not sufficient to be a Eureka breakthrough for HLAI. It needs another magic ingredient:
+
+- Mapping graph search keys to Phoscript words.
+
+Incidentally, the functions for Mapping graph search keys to Phoscript words are themselves Phoscript words.
+
+
+We should first describe the metaprogramming properties of Phoscript. Then add graph search to get complete picture of GEISHA.
+
+
+
+
+This is the most practical and immediate benefits of GEISHA.
+
+Highlight software engineering benefits of Phoscript, interface to all programming languages, hybrid API, easier to recruit new programmers for existing projects by simplifying code. 
+
+Highlight metaprogramming and AI properties of Phos and GEISHA.
+
+How to use Phoscript for debugging, maintenance and continuous improvement. 
+
+
+
+
 4. See example in README.
 
 5. Describe examples multiple programmers can produce using GEISHA, with timelines. 
