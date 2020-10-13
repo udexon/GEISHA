@@ -75,6 +75,11 @@ Highlight metaprogramming and AI properties of Phos and GEISHA.
 
 <hr>
 
+- Conclude here? Enough material for readers to think until next article?
+
+How to wrap up?
+
+<hr>
 
 7. Why no breakthrough since Dartmouth AI conference?
 
