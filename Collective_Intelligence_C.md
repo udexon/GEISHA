@@ -63,6 +63,7 @@ This alone is not sufficient to be a Eureka breakthrough for HLAI. It needs anot
 
 Incidentally, the functions for Mapping graph search keys to Phoscript words are themselves Phoscript words.
 
+<hr>
 
 We should first describe the metaprogramming properties of Phoscript. Then add graph search to get complete picture of GEISHA.
 
