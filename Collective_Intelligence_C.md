@@ -64,6 +64,10 @@ Will it get worse with GEISHA? Extrapolate from threats and benefits in model WI
 
 What about investment, agriculture, etc? Small robots for small farmers?
 
+- b. Goods / Services vs. Prices: When USA impose tax on goods from China, it may not cause the amount of production to be reduced, but the goods may be sold to other lower price regions. This may help their economy in the long term.
+
+Similarly with services &mdash; must differentiate Goods / Services from Price mechanism.
+
 Micro entity may have self awareness.
 
 Macro entity may not, or may, against bigger environment. Earth vs. Internet.
