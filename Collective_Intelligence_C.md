@@ -47,9 +47,12 @@ Indeed, transforming functions in existing programming languages into Phos funct
 
 Graph database events trigger new words ...
 
-Can GEISHA produce humanoid, simulated humanoid, formless AI, or other types of AI?
 
-> Geisha can clone all types of existing AI or robotic systems and improve them
+5. Highlight software engineering benefits of Phoscript, interface to all programming languages, hybrid API, easier to recruit new programmers for existing projects by simplifying code. 
+
+- How to use Phoscript for debugging, maintenance and continuous improvement. 
+
+- Geisha can clone all types of existing AI or robotic systems and improve them. This is the most practical and immediate benefits of GEISHA.
 
 Besides low level OpenCV functions as shown in programs A and B, GEISHA may also be used to integrate much bigger and complex programs such as humanoid simulators, or complete social media services (front end and back end).
 
@@ -57,38 +60,29 @@ Essentially, Phoscript uses a single string word without space to address a func
 
 Although such mechanisms (opcode, stack and stack machine) are available at the interpreter level of most programming languages, they are not available to programmers as API. Phoscript effectively creates a high level stack machine, much like a sandwich, where the bread at the bottom represent the interpreter / compiler, the meat and vegetables in the middle represent source code, and the bread at the top is Phoscript code.
 
-This alone is not sufficient to be a Eureka breakthrough for HLAI. It needs another magic ingredient:
+
+6. Phoscript alone is not sufficient to be a Eureka breakthrough for HLAI. It needs another magic ingredient:
 
 - Mapping graph search keys to Phoscript words.
 
 Incidentally, the functions for Mapping graph search keys to Phoscript words are themselves Phoscript words.
 
-<hr>
-
 We should first describe the metaprogramming properties of Phoscript. Then add graph search to get complete picture of GEISHA.
-
-
-
-
-This is the most practical and immediate benefits of GEISHA.
-
-Highlight software engineering benefits of Phoscript, interface to all programming languages, hybrid API, easier to recruit new programmers for existing projects by simplifying code. 
 
 Highlight metaprogramming and AI properties of Phos and GEISHA.
 
-How to use Phoscript for debugging, maintenance and continuous improvement. 
+- See example in README.
+
+<hr>
 
 
+7. Why no breakthrough since Dartmouth AI conference?
 
+- Describe examples multiple programmers can produce using GEISHA, with timelines. 
 
-4. See example in README.
+- Can GEISHA produce humanoid, simulated humanoid, formless AI, or other types of AI?
 
-5. Describe examples multiple programmers can produce using GEISHA, with timelines. 
-
-6. Why no breakthrough since Dartmouth AI conference?
-
-
-7. Define intelligence in terms of threats and opportunities, to benefits and survival of self.
+- Define intelligence in terms of threats and opportunities, to benefits and survival of self.
 
 - a. Compare threats and opportunities in existing world + Internet WITHOUT GEISHA vs. world + Internet WITH GEISHA:
 
@@ -107,6 +101,7 @@ Micro entity may have self awareness.
 Macro entity may not, or may, against bigger environment. Earth vs. Internet.
 
 The rules are like flowing water. Transfer of energy, high price to low price. Etc.
+
 
 8. The Tao of Geisha. Bad name.
 
