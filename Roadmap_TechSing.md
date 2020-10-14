@@ -77,7 +77,7 @@ var photo = canvasOutput.toDataURL('image/jpeg');
 The rest is PhosAjax.
 
 
-
+- Numbering: A-II-1-b-i Latin - Roman Num - Arabic num - Latin lower - Roman Num small
 
 
 ## C. Timeline towards Technological Singularity
@@ -87,7 +87,7 @@ The rest is PhosAjax.
 - B-I = no OpenCV function, just snapshot 
 - B-II = basic OpenCV functions
 
-2. From C and D, what's next?
+2. From B-I and B-II, what's next?
 
 As we have outlined in GEISHA README ....
 
