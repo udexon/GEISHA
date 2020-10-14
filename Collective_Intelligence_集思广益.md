@@ -6,6 +6,8 @@ Collective Intelligence 集思广益
 
 - Use this catch phrase to make it easy for readers understand
 
+The concept of "technological singularity" dates at least two decades before being coined by
+
 All programs has memory and file output isolated from others, antithesis of graph database. Hence there is no avenue or possibility of cumulative intelligence. Intelligence has to be cumulative, accumulated from numerous minute operations. Only Phos words and graph database can facilitate this.
 
 
