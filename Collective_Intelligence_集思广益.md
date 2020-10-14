@@ -42,7 +42,7 @@ Collective Intelligence 集思广益
 
 ## B. Demonstration with JavaScript OpenCV 
 
-In this tutorial, we will show you how to convert a conventional JavaScript OpenCV video processing web page into a PhosCV + PhosGraph graph database module, to demonstrate the Collective Intelligence model that we described above.
+In this tutorial, we will show you how to convert a conventional JavaScript OpenCV video processing web page into a PhosCV _WORD_ (homoiconic graph function, HGF) + PhosGraph graph database module, to demonstrate the Collective Intelligence model that we described above.
 
 What we did essentially was to take a snapshot from a video stream of a camera device, and save the image as a based64 encoded string in a JSON file on the server, which forms part of PhosGraph graph databse (GDB).
 
