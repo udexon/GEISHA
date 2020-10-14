@@ -1,5 +1,5 @@
 ## Roadmap towards Technological Singularity
-- Measured in the number of Phos WORDS (Homoiconic Graph Functions, HGF) in PhosGraph
+- Measured in the number of Phos WORDS (Homoiconic Graph Functions, HGF) in PhosGraph decentralized graph database (DCGDB)
 
 <!-- Use this catch phrase to make it easy for readers understand -->
 
