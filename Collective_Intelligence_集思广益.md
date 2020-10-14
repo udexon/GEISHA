@@ -1,5 +1,9 @@
 Collective Intelligence 集思广益
 
+## Roadmap towards Technological Singularity, measure in the number of Phos WORDS in PhosGraph
+
+- Use this catch phrase to make it easy for readers understand
+
 All programs has memory and file output isolated from others, antithesis of graph database. Hence there is no avenue or possibility of cumulative intelligence. Intelligence has to be cumulative, accumulated from numerous minute operations. Only Phos words and graph database can facilitate this.
 
 
