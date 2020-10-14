@@ -55,6 +55,14 @@ The rest is PhosAjax.
 
 2. From B-I and B-II, what's next?
 
+
+- Timeline
+1. Phosifying all existing AI projects
+2. Make Phos AI projects easy to code by beginners. Check number of beginners.
+3. Automate GEISHA. Check output of GEISHA vs. human programmers.
+4. TechSing = time when GEISHA automated outputs > human
+
+
 As we have outlined in GEISHA README ....
 
 Function to map graph search key to Phos words are themselves Phos words. Add this paragraph here.
