@@ -1,6 +1,8 @@
 Collective Intelligence 集思广益
 
-## Roadmap towards Technological Singularity, measure in the number of Phos WORDS in PhosGraph
+## Roadmap towards Technological Singularity
+
+- Measured in the number of Phos WORDS in PhosGraph
 
 - Use this catch phrase to make it easy for readers understand
 
