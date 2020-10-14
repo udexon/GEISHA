@@ -1,6 +1,7 @@
 ## Roadmap towards Technological Singularity
-- Measured in the number of Phos WORDS in PhosGraph
-- Use this catch phrase to make it easy for readers understand
+- Measured in the number of Phos WORDS (Homoiconic Graph Functions, HGF) in PhosGraph
+
+<!-- Use this catch phrase to make it easy for readers understand -->
 
 The concept of "technological singularity" dates at least two decades before being coined by Vernor Vinge in 1993, whose popularity was no doubted aided by the then nascent public access Internet and the microcomputer revolution, together with media portrayal of robotic apocalypse, from Terminator to the Matrix.
 
