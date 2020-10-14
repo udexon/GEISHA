@@ -78,6 +78,13 @@ The rest is PhosAjax.
 
 ## E. Timeline towards Technological Singularity
 
+1. Summary so far
+
+- C = no OpenCV function, just snapshot 
+- D = basic OpenCV functions
+
+2. From C and D, what's next?
+
 As we have outlined in GEISHA README ....
 
 Function to map graph search key to Phos words are themselves Phos words. Add this paragraph here.
