@@ -23,24 +23,6 @@ So here is the essence of the answer of this article:
 
 
 
-As we have outlined in GEISHA README ....
-
-Function to map graph search key to Phos words are themselves Phos words. Add this paragraph here.
-
-https://en.m.wikipedia.org/wiki/Technological_singularity
-
-
-
-All programs has memory and file output isolated from others, antithesis of graph database. Hence there is no avenue or possibility of cumulative intelligence. Intelligence has to be cumulative, accumulated from numerous minute operations. Only Phos words and graph database can facilitate this.
-
-
-Intelligence may arise as large number of users on internet use Phos to process data and share as graph database.
-
-Image to vocabulary annotation (derive key) can be manual. Then key may trigger other process.
-
-Collective Intelligence 集思广益
-
-
 ## B. Demonstration with JavaScript OpenCV 
 
 In this tutorial, we will show you how to convert a conventional JavaScript OpenCV video processing web page into a PhosCV _WORD_ (homoiconic graph function, HGF) + PhosGraph graph database module, to demonstrate the Collective Intelligence model that we described above.
@@ -90,3 +72,22 @@ https://stackoverflow.com/questions/13198131/how-to-save-an-html5-canvas-as-an-i
 var photo = canvasOutput.toDataURL('image/jpeg');   
 
 The rest is PhosAjax.
+
+As we have outlined in GEISHA README ....
+
+Function to map graph search key to Phos words are themselves Phos words. Add this paragraph here.
+
+https://en.m.wikipedia.org/wiki/Technological_singularity
+
+
+
+All programs has memory and file output isolated from others, antithesis of graph database. Hence there is no avenue or possibility of cumulative intelligence. Intelligence has to be cumulative, accumulated from numerous minute operations. Only Phos words and graph database can facilitate this.
+
+
+Intelligence may arise as large number of users on internet use Phos to process data and share as graph database.
+
+Image to vocabulary annotation (derive key) can be manual. Then key may trigger other process.
+
+Collective Intelligence 集思广益
+
+
