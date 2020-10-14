@@ -25,6 +25,8 @@ So here is the essence of the answer of this article:
 
 ## B. Demonstration with JavaScript OpenCV 
 
+### B-I. OpenCV Video Snapshot
+
 In this tutorial, we will show you how to convert a conventional JavaScript OpenCV video processing web page into a PhosCV _WORD_ (homoiconic graph function, HGF) + PhosGraph graph database module, to demonstrate the Collective Intelligence model that we described above.
 
 What we did essentially was to take a snapshot from a video stream of a camera device, and save the image as a based64 encoded string in a JSON file on the server, which forms part of PhosGraph graph databse (GDB).
@@ -58,8 +60,11 @@ U({photo: photo}) // send JSON
 <img src="https://github.com/udexon/GEISHA/blob/main/img/image_json.png" width=600>
 
 
+### B-II. [OpenCV Basic Functions](https://github.com/udexon/GEISHA/blob/main/Collective_Intelligence_C.md)
 
-## C. PhosCV / PhosGraph Details
+
+
+### B-III. PhosCV / PhosGraph Details
 
 <img src="https://github.com/udexon/GEISHA/blob/main/img/PhosCV_ajax_auth.png" width=400>
 
@@ -73,15 +78,14 @@ The rest is PhosAjax.
 
 
 
-## D. [Small Nodes and Many Connections](https://github.com/udexon/GEISHA/blob/main/Collective_Intelligence_C.md)
 
 
-## E. Timeline towards Technological Singularity
+## C. Timeline towards Technological Singularity
 
 1. Summary so far
 
-- C = no OpenCV function, just snapshot 
-- D = basic OpenCV functions
+- B-I = no OpenCV function, just snapshot 
+- B-II = basic OpenCV functions
 
 2. From C and D, what's next?
 
