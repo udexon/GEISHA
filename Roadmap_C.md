@@ -1,4 +1,12 @@
 
+- Timeline
+1. Phosifying all existing AI projects
+2. Make Phos AI projects easy to code by beginners. Check number of beginners.
+3. Automate GEISHA. Check output of GEISHA vs. human programmers.
+4. TechSing = time when GEISHA automated outputs > human
+
+
+
 5. Highlight software engineering benefits of Phoscript, interface to all programming languages, hybrid API, easier to recruit new programmers for existing projects by simplifying code. 
 
 - How to use Phoscript for debugging, maintenance and continuous improvement. 
