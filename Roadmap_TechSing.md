@@ -58,10 +58,8 @@ U({photo: photo}) // send JSON
 <img src="https://github.com/udexon/GEISHA/blob/main/img/image_json.png" width=600>
 
 
-## C. [Small Nodes and Many Connections](https://github.com/udexon/GEISHA/blob/main/Collective_Intelligence_C.md)
 
-
-## D. PhosCV / PhosGraph Details
+## C. PhosCV / PhosGraph Details
 
 <img src="https://github.com/udexon/GEISHA/blob/main/img/PhosCV_ajax_auth.png" width=400>
 
@@ -72,6 +70,13 @@ https://stackoverflow.com/questions/13198131/how-to-save-an-html5-canvas-as-an-i
 var photo = canvasOutput.toDataURL('image/jpeg');   
 
 The rest is PhosAjax.
+
+
+
+## D. [Small Nodes and Many Connections](https://github.com/udexon/GEISHA/blob/main/Collective_Intelligence_C.md)
+
+
+## E. Timeline towards Technological Singularity
 
 As we have outlined in GEISHA README ....
 
