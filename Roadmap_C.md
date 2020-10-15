@@ -69,6 +69,14 @@ The generation of programmers born in 1970s may be a unique generation who are c
 
 They are unique because the pace of IT revolution may slow down in the 2020s, and career welfare may have improved to ensure the 30 year olds in 2020 will not suffer as much in 2025 compared to those in the mid 40s in 2020.
 
+Their experience and insights also provide clues for us to analyze and predict technological trends beyond 2020.
+
+Most importantly:
+
+- Will systems similar to GEISHA exists and grows in the 2020s, with or without conscious human intervention?
+
+- How will GEISHA or similar systems affect the livelihood of programmers and non-programmers around the world, from the developed countries to developing countries?
+
 - Define intelligence in terms of threats and opportunities, to benefits and survival of self.
 
 - a. Compare threats and opportunities in existing world + Internet WITHOUT GEISHA vs. world + Internet WITH GEISHA:
