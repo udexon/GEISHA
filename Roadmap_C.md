@@ -89,7 +89,9 @@ The most likely factor to offset the threats of greater number of young programm
 
 2. Worse: The number of young programmers increase from 2020 to 2025, while world economy stagnates or gets worse.
 
-3. Better: with GEISHA
+3. Better: with GEISHA. 
+
+We believe it is unlikely for the world economy to get better from 2020 to 2025 without GEISHA, as 2020 has suffered the worst pandemic in recent history.
 
 What about WORSE with GEISHA?
 
