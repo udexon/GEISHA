@@ -48,25 +48,16 @@ IV. TechSing = time when GEISHA automated outputs > human
 
 GEISHA provides a theoretical basis on which we may analyze the threats and benefits of artificial intelligence systems.
 
+Contemporaneous commnetators on technological singularity usually highlights ethical issues on military robots, e.g. how or if it is possible to control a HLAI robot soldiers or more intelligent systems or entities.
+
+We would like to investigate this issue from a different perspective, that of the economic perspetive.
 
 
-Forms of Artificial Intelligence Systems
+- Forms of Artificial Intelligence Systems
 
 - HLAI vs. super AI, formless etc.
 
 - Can GEISHA produce humanoid, simulated humanoid, formless AI, or other types of AI?
-
-<hr>
-
-- Conclude here? Enough material for readers to think until next article?
-
-How to wrap up?
-
-<hr>
-
-7. Why no breakthrough since Dartmouth AI conference?
-
-- Describe examples multiple programmers can produce using GEISHA, with timelines. 
 
 - Can GEISHA produce humanoid, simulated humanoid, formless AI, or other types of AI?
 
@@ -89,6 +80,20 @@ Micro entity may have self awareness.
 Macro entity may not, or may, against bigger environment. Earth vs. Internet.
 
 The rules are like flowing water. Transfer of energy, high price to low price. Etc.
+
+
+
+<hr>
+
+- Conclude here? Enough material for readers to think until next article?
+
+How to wrap up?
+
+<hr>
+
+7. Why no breakthrough since Dartmouth AI conference?
+
+- Describe examples multiple programmers can produce using GEISHA, with timelines. 
 
 
 8. The Tao of Geisha. Bad name.
