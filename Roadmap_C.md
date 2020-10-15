@@ -93,15 +93,32 @@ The most likely factor to offset the threats of greater number of young programm
 
 We believe it is unlikely for the world economy to get better from 2020 to 2025 without GEISHA, as 2020 has suffered the worst pandemic in recent history.
 
-1 2 5 years phosify all major open source software projects.
+As such, let us consider how GEISHA may change the software industry and affect the world from 2020 until 2030.
 
-These targets are deterministic. Non deterministic are internal GEISHA mapping. When to reach point of no return, avalanche threshold? 
+One of the most fundamental exercise in GEISHA is the manual conversion (by human programmer) of existing source code of open source projects in various host programming languages into Phoscript. This process may be automated once the initial "Phosification" prototypes are in place. Let us consider the following scenarios:
 
-PONR may be 1% 10% 20% 50% or 90% of existing code. Or may come afterwards.
+1. It takes 1 year (most optimistic measure) to convert major GNU tools and open source projects to Phoscript: e.g. GNU C Compiler, PHP interpreter engine, .... LibreOffice etc.
+
+2. It takes 2 years to accomplish the above.
+
+3. It takes 5 years to accomplish the above.
+
+4. It takes 10 years to accomplish the above.
+ 
+
+These targets are deterministic. The main variable in the above scenarios is publicity &mdash; how effective is GEISHA Phoscript promotion program to convince and recruit free software programmers to participate.
+
+The most important factor is however non-deterministic &mdash; internal GEISHA conditions to actions mapping. 
+
+- When will GEISHA reach the "point of no return" (PONR) or "avalanche threshold" i.e. GEISHA has sufficient fundamental metaprogramming functions that it no longer requires human input to expand its database?
+
+PONR may hit at 1%, 10%, 20%, 50% or 90% of converting existing code. Or it may come much later. At this point, we simply do not sufficient empirical data to predict the behaviour of GEISHA. This situation may improve in the coming weeks or months.
 
 But if we have built up momentum for GEISHA, we are already rich.  Then techsing is a different matter. 
 
-Main variable is publicity.
+1 2 5 years phosify all major open source software projects.
+
+
 
 If not phos, someone else may have to invent something similar.
 
