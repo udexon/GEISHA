@@ -33,7 +33,8 @@ So here is the essence of the answer of this article:
 ### B-III. [PhosCV / PhosGraph Details](https://github.com/udexon/GEISHA/blob/main/Roadmap_B_III.md)
 
 
-## C. [Timeline towards Technological Singularity](https://github.com/udexon/GEISHA/blob/main/Roadmap_C.md)
+
+## C. [Threats and Benefits of AI: Now, Towards and Beyond Technological Singularity](https://github.com/udexon/GEISHA/blob/main/Roadmap_C.md)
 
 
-## D. [Threats and Benefits of AI: Now, Towards and Beyond Technological Singularity](https://github.com/udexon/GEISHA/blob/main/Roadmap_C.md#d-threats-and-benefits-of-ai-now-towards-and-beyond-technological-singularity)
+## D. [Timeline towards Technological Singularity](https://github.com/udexon/GEISHA/blob/main/Roadmap_C.md#d-timeline-towards-technological-singularity)
