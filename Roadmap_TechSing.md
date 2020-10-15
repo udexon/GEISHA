@@ -1,4 +1,4 @@
-## Roadmap towards Technological Singularity
+## Roadmap Towards Technological Singularity
 - Measured in the number of Phos WORDS (Homoiconic Graph Functions, HGF) in PhosGraph decentralized graph database (DCGDB)
 
 <!-- Use this catch phrase to make it easy for readers understand -->
@@ -15,12 +15,16 @@ So here is the essence of the answer of this article:
 
 - Answer: The number of Phos WORDS (homoiconic graph functions HGF) in PhosGraph decentralized graph database (DCGDB).
 
-- Timeline
-1. Phosifying all existing AI projects
-2. Make Phos AI projects easy to code by beginners. Check number of beginners.
-3. Automate GEISHA. Check output of GEISHA vs. human programmers.
-4. TechSing = time when GEISHA automated outputs > human
+The precise Timeline Towards Technological Singularity (TTTS) is given in section D of this article:
 
+1. "Phosify" all existing AI and open source projects.
+2. Make Phos AI projects easy to code by beginners. Measure the number of beginners.
+3. Automate GEISHA. Measure output of GEISHA vs. human programmers.
+4. Technological Singularity = time when GEISHA automated output > output by human programmers
+
+In section B we describe several examples of "Phosification" (converting code in existing programming language into Phoscript), a procedure needed for building up GEISHA.
+
+In section C we describe the rationale in deriving the Timeline Towards Technological Singularity, given in section D.
 
 
 ## B. Demonstration with JavaScript OpenCV 
