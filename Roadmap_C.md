@@ -89,7 +89,9 @@ The most likely factor to offset the threats of greater number of young programm
 
 2. Worse: The number of young programmers increase from 2020 to 2025, while world economy stagnates or gets worse.
 
-3. Better:
+3. Better: with GEISHA
+
+What about WORSE with GEISHA?
 
 <!-- Future: same, worse, better; 3 different scenarios. Possible factors for each scenario. -->
 
