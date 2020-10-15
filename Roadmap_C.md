@@ -62,6 +62,12 @@ In plain English:
 
 ### I. Without GEISHA: Threats and Benefits on the Livelihood of Individual Programmers
 
+The generation of programmers born in 1970s may be a unique generation who are caught in the rise and trough of IT revolution that began in the 1990s:
+
+- the post 1990 32-bit microprocessor IT boom 
+- by mid 2010s, although the IT industry is still booming, globalization and commoditization of IT knowledge cause the "dilution of income" as younger programmers took away too much of the older programmers fair share before they can retire comfortably.
+
+They are unique because the pace of IT revolution may slow down in the 2020s, and career welfare may have improved to ensure the 30 year olds in 2020 will not suffer as much in 2025 compared to those in the mid 40s in 2020.
 
 - Define intelligence in terms of threats and opportunities, to benefits and survival of self.
 
