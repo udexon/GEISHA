@@ -44,7 +44,9 @@ Highlight metaprogramming and AI properties of Phos and GEISHA.
 IV. TechSing = time when GEISHA automated outputs > human
 
 
-## D. Forms of AI
+## D. Threats and Benefits of AI: Now, Towards and Beyond Technological Singularity
+
+Forms of Artificial Intelligence Systems
 
 - HLAI vs. super AI, formless etc.
 
@@ -96,3 +98,39 @@ Structure of Article:
 1. Past
 2. Present
 3. Future
+
+
+
+1. Summary so far
+
+- B-I = no OpenCV function, just snapshot 
+- B-II = basic OpenCV functions
+
+2. From B-I and B-II, what's next?
+
+
+- Timeline
+1. Phosifying all existing AI projects
+2. Make Phos AI projects easy to code by beginners. Check number of beginners.
+3. Automate GEISHA. Check output of GEISHA vs. human programmers.
+4. TechSing = time when GEISHA automated outputs > human
+
+
+As we have outlined in GEISHA README ....
+
+Function to map graph search key to Phos words are themselves Phos words. Add this paragraph here.
+
+https://en.m.wikipedia.org/wiki/Technological_singularity
+
+
+
+All programs has memory and file output isolated from others, antithesis of graph database. Hence there is no avenue or possibility of cumulative intelligence. Intelligence has to be cumulative, accumulated from numerous minute operations. Only Phos words and graph database can facilitate this.
+
+
+Intelligence may arise as large number of users on internet use Phos to process data and share as graph database.
+
+Image to vocabulary annotation (derive key) can be manual. Then key may trigger other process.
+
+Collective Intelligence 集思广益
+
+
