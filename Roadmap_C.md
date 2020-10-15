@@ -60,6 +60,28 @@ In plain English:
 
 2. If GEISHA exists and grows, what are the factors that are threntening the livelihood of a programmer today, or in the next 2, 5 and 10 years?
 
+### I. Without GEISHA: Threats and Benefits on the Livelihood of Individual Programmers
+
+
+- Define intelligence in terms of threats and opportunities, to benefits and survival of self.
+
+- a. Compare threats and opportunities in existing world + Internet WITHOUT GEISHA vs. world + Internet WITH GEISHA:
+
+Harder to get jobs for old people, as knowledge and skills become easier to gain via technologies, but welfare could not catch up with technologies.
+
+What about investment, agriculture, etc? Small robots for small farmers?
+
+- b. Goods / Services vs. Prices: When USA impose tax on goods from China, it may not cause the amount of production to be reduced, but the goods may be sold to other lower price regions. This may help their economy in the long term.
+
+Similarly with services &mdash; must differentiate Goods / Services from Price mechanism.
+
+
+### II. Living WITH GEISHA: Threats and Benefits on the Livelihood of Individual Programmers
+
+There maybe / are systems that resemble GEISHA without being identified as such as we speak.
+
+2. If GEISHA exists and grows, what are the factors that are threntening the livelihood of a programmer today, or in the next 2, 5 and 10 years?
+
 - Forms of Artificial Intelligence Systems
 
 - HLAI vs. super AI, formless etc.
@@ -68,19 +90,8 @@ In plain English:
 
 - Can GEISHA produce humanoid, simulated humanoid, formless AI, or other types of AI?
 
-- Define intelligence in terms of threats and opportunities, to benefits and survival of self.
-
-- a. Compare threats and opportunities in existing world + Internet WITHOUT GEISHA vs. world + Internet WITH GEISHA:
-
-Harder to get jobs for old people, as knowledge and skills become easier to gain via technologies, but welfare could not catch up with technologies.
-
 Will it get worse with GEISHA? Extrapolate from threats and benefits in model WITHOUT GEISHA to model WITH GEISHA, e.g. jobs (benefitting some not but others) &mdash; existing threats and benefits; THEN conceive new threats and benefits WITH GEISHA.
 
-What about investment, agriculture, etc? Small robots for small farmers?
-
-- b. Goods / Services vs. Prices: When USA impose tax on goods from China, it may not cause the amount of production to be reduced, but the goods may be sold to other lower price regions. This may help their economy in the long term.
-
-Similarly with services &mdash; must differentiate Goods / Services from Price mechanism.
 
 Micro entity may have self awareness.
 
