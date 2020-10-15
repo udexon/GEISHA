@@ -30,23 +30,10 @@ So here is the essence of the answer of this article:
 ### B-II. [OpenCV Basic Functions](https://github.com/udexon/GEISHA/blob/main/Collective_Intelligence_C.md)
 
 
-### B-III. PhosCV / PhosGraph Details
-
-<img src="https://github.com/udexon/GEISHA/blob/main/img/PhosCV_ajax_auth.png" width=400>
-
-<img src="https://github.com/udexon/GEISHA/blob/main/img/PhosCV_nick.png" width=400>
-
-https://stackoverflow.com/questions/13198131/how-to-save-an-html5-canvas-as-an-image-on-a-server
-
-var photo = canvasOutput.toDataURL('image/jpeg');   
-
-The rest is PhosAjax.
+### B-III. [PhosCV / PhosGraph Details](https://github.com/udexon/GEISHA/blob/main/Roadmap_B_III.md)
 
 
-- Numbering: A-II-1-b-i Latin - Roman Num - Arabic num - Latin lower - Roman Num small
-
-
-## C. Timeline towards Technological Singularity
+## C. [Timeline towards Technological Singularity](https://github.com/udexon/GEISHA/blob/main/Roadmap_C.md)
 
 1. Summary so far
 
@@ -81,3 +68,4 @@ Image to vocabulary annotation (derive key) can be manual. Then key may trigger 
 Collective Intelligence 集思广益
 
 
+## D. [Threats and Benefits of AI: Now, Towards and Beyond Technological Singularity](https://github.com/udexon/GEISHA/blob/main/Roadmap_C.md#d-threats-and-benefits-of-ai-now-towards-and-beyond-technological-singularity)
