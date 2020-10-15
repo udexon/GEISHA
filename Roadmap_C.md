@@ -77,6 +77,20 @@ Most importantly:
 
 - How will GEISHA or similar systems affect the livelihood of programmers and non-programmers around the world, from the developed countries to developing countries?
 
+Let us consider 3 possible scenarios concerning livelihood of "middle age programmers" from 2020 to 2030, and analyze the possible factors for each scenario.
+
+1. Same, no change: the biggest "threat" to livelihood of "middle age programmers" are of course "younger programmers", as globalization and commoditization of technological knowledge make it extremely easy to learn and become a professional programmer.
+
+By "SAME", we should say by 2025, programmers who are 35 years old are facing no more and no less threats compared to the 35 years old programmers in 2020.
+
+However, as we may also assume that the user base of Internet and mobile phone will continue to grow, so there will be more young programmers in 2025 compared to 2020. For 35 years old programmers to not face increasing pressure from younger programmers in 2025, we must then find additional benecial factors to offset the increasing threats.
+
+2. Worse:
+
+3. Better:
+
+<!-- Future: same, worse, better; 3 different scenarios. Possible factors for each scenario. -->
+
 - Define intelligence in terms of threats and opportunities, to benefits and survival of self.
 
 - a. Compare threats and opportunities in existing world + Internet WITHOUT GEISHA vs. world + Internet WITH GEISHA:
