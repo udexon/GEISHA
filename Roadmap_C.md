@@ -46,6 +46,10 @@ IV. TechSing = time when GEISHA automated outputs > human
 
 ## D. Threats and Benefits of AI: Now, Towards and Beyond Technological Singularity
 
+GEISHA provides a theoretical basis on which we may analyze the threats and benefits of artificial intelligence systems.
+
+
+
 Forms of Artificial Intelligence Systems
 
 - HLAI vs. super AI, formless etc.
