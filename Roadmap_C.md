@@ -52,6 +52,13 @@ Contemporaneous commnetators on technological singularity usually highlights eth
 
 We would like to investigate this issue from a different perspective, that of the economic perspetive.
 
+More specifically, we propose to analyze the existential crises that may affect individual programmers, in scenarios where GEISHA exists or otherwise.
+
+In plain English:
+
+1. Without GEISHA, what are the factors that are threntening the livelihood of a programmer today, or in the next 2, 5 and 10 years?
+
+2. If GEISHA exists and grows, what are the factors that are threntening the livelihood of a programmer today, or in the next 2, 5 and 10 years?
 
 - Forms of Artificial Intelligence Systems
 
