@@ -6,7 +6,7 @@
 4. TechSing = time when GEISHA automated outputs > human
 
 
-I. Phosifying all existing AI projects
+### I. Phosifying all existing AI projects
 
 1. Highlight software engineering benefits of Phoscript, interface to all programming languages, hybrid API, easier to recruit new programmers for existing projects by simplifying code. 
 
@@ -20,9 +20,9 @@ Essentially, Phoscript uses a single string word without space to address a func
 
 Although such mechanisms (opcode, stack and stack machine) are available at the interpreter level of most programming languages, they are not available to programmers as API. Phoscript effectively creates a high level stack machine, much like a sandwich, where the bread at the bottom represent the interpreter / compiler, the meat and vegetables in the middle represent source code, and the bread at the top is Phoscript code.
 
-2. Make Phos AI projects easy to code by beginners. Check number of beginners.
+### II. Make Phos AI projects easy to code by beginners. Check number of beginners.
 
-III. Automate GEISHA. Check output of GEISHA vs. human programmers.
+### III. Automate GEISHA. Check output of GEISHA vs. human programmers.
 
 
 - Describe examples multiple programmers can produce using GEISHA, with timelines. 
@@ -42,6 +42,11 @@ Highlight metaprogramming and AI properties of Phos and GEISHA.
 
 
 IV. TechSing = time when GEISHA automated outputs > human
+
+
+## D. Forms of AI
+
+- HLAI vs. super AI, formless etc.
 
 - Can GEISHA produce humanoid, simulated humanoid, formless AI, or other types of AI?
 
@@ -86,3 +91,8 @@ The Tao of PhosBrain ??
 
 Human, Robot, Computers, System Intelligence.
 
+
+Structure of Article:
+1. Past
+2. Present
+3. Future
