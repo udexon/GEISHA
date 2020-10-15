@@ -93,7 +93,22 @@ The most likely factor to offset the threats of greater number of young programm
 
 We believe it is unlikely for the world economy to get better from 2020 to 2025 without GEISHA, as 2020 has suffered the worst pandemic in recent history.
 
-What about WORSE with GEISHA?
+1 2 5 years phosify all major open source software projects.
+
+These targets are deterministic. Non deterministic are internal GEISHA mapping. When to reach point of no return, avalanche threshold? 
+
+PONR may be 1% 10% 20% 50% or 90% of existing code. Or may come afterwards.
+
+But if we have built up momentum for GEISHA, we are already rich.  Then techsing is a different matter. 
+
+Main variable is publicity.
+
+If not phos, someone else may have to invent something similar.
+
+
+
+
+- What about WORSE with GEISHA?
 
 <!-- Future: same, worse, better; 3 different scenarios. Possible factors for each scenario. -->
 
