@@ -85,7 +85,9 @@ By "SAME", we should say by 2025, programmers who are 35 years old are facing no
 
 However, as we may also assume that the user base of Internet and mobile phone will continue to grow, so there will be more young programmers in 2025 compared to 2020. For 35 years old programmers to not face increasing pressure from younger programmers in 2025, we must then find additional benecial factors to offset the increasing threats.
 
-2. Worse:
+The most likely factor to offset the threats of greater number of young programmers would be the improvement in economic growth in China and other developing countries, providing more jobs and income to the greater overall number of programmers worldwide.
+
+2. Worse: The number of young programmers increase from 2020 to 2025, while world economy stagnates or gets worse.
 
 3. Better:
 
