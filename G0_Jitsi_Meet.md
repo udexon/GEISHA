@@ -1,8 +1,8 @@
-G0 Jitsi Meet
+## _GEISHA(0)_: Proof of Human Level Artificial Intelligence by Induction & a Universal Software Management System
 
 - _A Dummy Artificial Intelligence System (DAIS) executes a program faithfully, one instruction after another, just like how a computer would, without making changes._
 
-Although the statement above may sound counterintuitive, it however critically serves as a case 0 in a proof of induction for human level artificial intelligence (HLAI), called GEISHA (Graph Enhanced Intelligent Search with Homoiconic Actions).
+Although the statement above may sound counterintuitive, it however critically serves as a ___case 0 in a proof of induction for human level artificial intelligence (HLAI)___, called GEISHA (Graph Enhanced Intelligent Search with Homoiconic Actions).
 
 Yet, besides being a breakthrough towards HLAI, the DAIS concerned (GEISHA(0) or G0) also has  very practical applications, such as being a ___universal software management system___, which we shall demonstrate in this article.
 
