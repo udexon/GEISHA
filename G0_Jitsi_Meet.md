@@ -22,3 +22,7 @@ There are at least two good signs concerning the robutness of the theory of GEIS
 G0 is simply any program written by human programmers which does not change by itself. 
 
 We may euphemistically call G0 "Geisha Doll" or "Geisha Dummy".
+
+- https://en.wikipedia.org/wiki/Mathematical_induction
+
+From a practical perspective, GEISHA provides programmers an alternative way of developing and maintaining software. It is actually flexible enough to be a universal interface to various existing software project structures, ranging from Java Eclipse to GitHub React projects such as Jitsi Meet, which we shall use as a first example for illustration.
