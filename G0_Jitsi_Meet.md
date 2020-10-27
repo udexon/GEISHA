@@ -1,6 +1,6 @@
 G0 Jitsi Meet
 
-_A Dummy Artificial Intelligence System executes a program faithfully, one instruction after another, just like how a computer would, without making changes._
+- _A Dummy Artificial Intelligence System executes a program faithfully, one instruction after another, just like how a computer would, without making changes._
 
 Although the statement sounds counterintuitive, it however serves critically as a case 0 in a proof of induction for human level artificial intelligence (HLAI).
 
