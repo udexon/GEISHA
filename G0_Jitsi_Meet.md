@@ -1,7 +1,7 @@
 G0 Jitsi Meet
 
 
-<img src="https://github.com/udexon/GEISHA/blob/main/img/GEISHA_G0.png" width=600>
+<img src="https://github.com/udexon/GEISHA/blob/main/img/GEISHA_G0_A.png" width=600>
 
 
 There are at least two good signs concerning the robutness of the theory of GEISHA:
