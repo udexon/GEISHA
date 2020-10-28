@@ -50,10 +50,12 @@ We understand that even this may sound too far-fetched as they are in fact  unp
 
 ### II. Universal Software Management System
 
+"Software Management System" is a term we use to include, but not limited to, the following:
+
 1. GitHub
 
-2. IDE
+2. Integrated Development Environment Systems (IDE)
 
-3. Human Programmer
+3. Human Programmers
 
-4. G0
+4. GEISHA(0) or G0
