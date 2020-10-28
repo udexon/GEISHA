@@ -35,6 +35,18 @@ Let us first consider GEISHA case 0, GIESHA(0) or G0:
 ```
 : G0 h0 h1 h2 h3 … … ;
 ```  
+The notation above is called "colon definition" in Forth or similar programming language. The meaning of the parameters are:
+
+- `:` start of colon definition
+- `G0` word or function name to define
+- `h0 h1 h2 h3 … …` list of words (functions) to execute
+- `;` end of colon definition
+
+It is a rather "primitive" yet useful notation to define new function that predated the C programming langauge, which perhaps influenced all other subsequent modern programming languages.
+
+
+
+
 
 G0 is simply any program written by human programmers which does not change by itself. 
 
