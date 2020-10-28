@@ -42,10 +42,18 @@ The notation above is called "colon definition" in Forth or similar programming 
 - `h0 h1 h2 h3 … …` list of words (functions) to execute
 - `;` end of colon definition
 
-It is a rather "primitive" yet useful notation to define new function that predated the C programming langauge, which perhaps influenced all other subsequent modern programming languages.
+It is a rather "primitive" yet useful notation to define a new function that predated the C programming langauge, which perhaps influenced all other subsequent modern programming languages.
 
+So the expression above defines `G0` as a series of functions `h0 h1 h2 h3 … …`.
 
+In modern C or equivalent, it would be:
 
+```
+void G0()
+{
+    h0(); h1(); h2(); h3(); … …
+}
+```
 
 
 G0 is simply any program written by human programmers which does not change by itself. 
