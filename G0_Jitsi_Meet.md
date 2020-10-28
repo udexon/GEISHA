@@ -2,11 +2,44 @@
 
 - _A Dummy Artificial Intelligence System (DAIS) executes a program faithfully, one instruction after another, just like how a computer would, without making changes._
 
-Although the statement above may sound counterintuitive, it however critically serves as a ___case 0 in a proof of induction for human level artificial intelligence (HLAI)___, called GEISHA (Graph Enhanced Intelligent Search with Homoiconic Actions).
+Although thatemthe ent above may sound counterintuitive, it however critically serves as a ___case 0 in a proof of induction for human level artificial intelligence (HLAI)___, called GEISHA (Graph Enhanced Intelligent Search with Homoiconic Actions). 
 
 Yet, besides being a breakthrough towards HLAI, the DAIS concerned (GEISHA(0) or G0) also has  very practical applications, such as being a ___universal software management system___, which we shall demonstrate in this article.
 
 <img src="https://github.com/udexon/GEISHA/blob/main/img/GEISHA_G0_A.png" width=600>
+
+
+### II. Universal Software Management System
+
+Let us skip ___the proof of induction for human level artificial intelligence (HLAI)___ for now, and revisit it later, as it might be easier for readers to grasp the more practical concept of "software management system" first.
+
+"Software management system" is a term we use to include, but not limited to, the following:
+
+1. GitHub and similar systems
+
+2. Integrated Development Environment Systems (IDE)
+
+3. Human Programmers
+
+4. GEISHA(0) or G0
+
+Ours might be an unprecedented attempt to create a model to generalize entities as diverse as IDE and the human mind.
+
+We would like to assure readers that the reason we are able to do this is due to breakthroughs in homoiconic metaprogramming &mdash; techniques in transforming source code in conventional programming languages into homoiconic forms (code and data can be manipulated in the same manners).
+
+
+#### A. GEISHA(0) or G0
+
+Let us first consider GEISHA case 0, GIESHA(0) or G0:
+
+```
+: G0 h0 h1 h2 h3 … … ;
+```  
+
+G0 is simply any program written by human programmers which does not change by itself. 
+
+We may euphemistically call G0 "Geisha Doll" or "Geisha Dummy".
+
 
 
 There are at least two good signs concerning the robutness of the theory of GEISHA:
@@ -47,31 +80,3 @@ In fact, we hope that the description of Geisha Doll as a software management sy
 
 We understand that even this may sound too far-fetched as they are in fact  unprecedented claims. Yet we provide specific procedures to test our claims. 
 
-### II. Universal Software Management System
-
-"Software Management System" is a term we use to include, but not limited to, the following:
-
-1. GitHub and similar systems
-
-2. Integrated Development Environment Systems (IDE)
-
-3. Human Programmers
-
-4. GEISHA(0) or G0
-
-Ours might be an unprecedented attempt to create a model to generalize entities as diverse as IDE and the human mind.
-
-We would like to assure readers that the reason we are able to do this is due to breakthroughs in homoiconic metaprogramming &mdash; techniques in transforming source code in conventional programming languages into homoiconic forms (code and data can be manipulated in the same manners).
-
-
-#### A. GEISHA(0) or G0
-
-Let us first consider GEISHA case 0, GIESHA(0) or G0:
-
-```
-: G0 h0 h1 h2 h3 … … ;
-```  
-
-G0 is simply any program written by human programmers which does not change by itself. 
-
-We may euphemistically call G0 "Geisha Doll" or "Geisha Dummy".
