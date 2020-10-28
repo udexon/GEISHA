@@ -52,7 +52,7 @@ We understand that even this may sound too far-fetched as they are in fact  unp
 
 "Software Management System" is a term we use to include, but not limited to, the following:
 
-1. GitHub
+1. GitHub and similar systems
 
 2. Integrated Development Environment Systems (IDE)
 
