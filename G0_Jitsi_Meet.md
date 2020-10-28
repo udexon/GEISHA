@@ -47,3 +47,13 @@ If technological singularity sounds too remote to ordinary readers, then perhaps
 In fact, we hope that the description of Geisha Doll as a software management system may convince readers of its potential as a realistic candidate to model human level artificial intelligence.
 
 We understand that even this may sound too far-fetched as they are in fact  unprecedented claims. Yet we provide specific procedures to test our claims. 
+
+### II. Universal Software Management System
+
+1. GitHub
+
+2. IDE
+
+3. Human Programmer
+
+4. G0
