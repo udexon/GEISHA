@@ -48,7 +48,7 @@ So the expression above defines `G0` as a series of functions `h0 h1 h2 h3 … �
 
 In modern C or equivalent, it would be:
 
-```
+```C
 void G0()
 {
     h0(); h1(); h2(); h3(); … …
