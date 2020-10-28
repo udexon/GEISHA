@@ -17,8 +17,7 @@ There are at least two good signs concerning the robutness of the theory of GEIS
 : G h0 g0 h1 g1 h2 g2 … … ;
 ```
 
-2. GEISHA has a case 0 for proof by induction G0.
-
+2. GEISHA has a case 0 for proof by induction: GIESHA(0) or G0,
 
 ```
 : G0 h0 h1 h2 h3 … … ;
@@ -59,3 +58,20 @@ We understand that even this may sound too far-fetched as they are in fact  unp
 3. Human Programmers
 
 4. GEISHA(0) or G0
+
+Ours might be an unprecedented attempt to create a model to generalize entities as diverse as IDE and the human mind.
+
+We would like to assure readers that the reason we are able to do this is due to breakthroughs in homoiconic metaprogramming &mdash; techniques in transforming source code in conventional programming languages into homoiconic forms (code and data can be manipulated in the same manners).
+
+
+#### A. GEISHA(0) or G0
+
+Let us first consider GEISHA case 0, GIESHA(0) or G0:
+
+```
+: G0 h0 h1 h2 h3 … … ;
+```  
+
+G0 is simply any program written by human programmers which does not change by itself. 
+
+We may euphemistically call G0 "Geisha Doll" or "Geisha Dummy".
