@@ -1,57 +1,3 @@
-### B. 
-
-- B1. In this section, we use GEISHA(0)/G0 to analyze 2 simple programs:
-  - Program g_hello: `print "hello\n" "there\n"`
-  - Program g_kenobi: `print "hello\n" "there\n" "general\n" "kenobi\n"`
-
-1. Program g_hello: print "hello\n" "there\n"
-- Phoscript:
-```
-php phos.php \
-: g_hello hello enl: there enl: \; \
-g_hello
-```
-<img src="https://github.com/udexon/GEISHA/blob/main/img/g_hello.png" width=600>
-
-- PHP:
-```php
-<?php
-
-enl("hello");
-enl("there");
-
-function enl($s)
-{
-    echo $s."\n";
-}
-```
-<img src="https://github.com/udexon/GEISHA/blob/main/img/g_hello_php.png" width=600>
-
-
-2. Program g_kenobi: print "hello\n" "there\n" "general\n" "kenobi\n"
-- Phoscript:
-```
-php phos.php \
-: g_kenobi hello enl: there enl: general enl: kenobi enl: \; \
-g_kenobi
-```
-<img src="https://github.com/udexon/GEISHA/blob/main/img/g_kenobi.png" width=600>
-
-- PHP:
-```php
-<?php
-
-enl("hello");
-enl("there");
-enl("general");
-enl("kenobi");
-
-function enl($s)
-{
-    echo $s."\n";
-}
-```
-<img src="https://github.com/udexon/GEISHA/blob/main/img/g_kenobi_php.png" width=600>
 
 - B2. Let us consider the task given to a programmer, to simply extend `g_hello` to `g_kenobi`.
 
@@ -85,11 +31,9 @@ So the solution for task B2 is, in pseudocode:
 append h2 h3 to g_hello
 ```
 
-We shall not over-complicate the discussions for now with the detailed internal structure of Phoscript PHP where the colon definition words (CDW) are kept in an array. We shall satisfy ourselves with a solution in the form of psedocode, and we invite interested readers to work out the complete solution, which we shall explain in a future tutorial.
+The Phoscript code to achieve this is described below：
 
-Phoscript and Forth simplifies programming and metaprogramming by removing the list of parameters from the function definition, as the stack machine mechanisms handle them elegantly. This perhaps removes the biggest obstacle in metaprogramming.
-
-
+1. Display the Colon Definition Words array in json string format:
 ```
 php phos.php \
 : h0 hello   enl: \; \
@@ -115,6 +59,13 @@ cdw: je: s:
 }
 ```
 
+- Explanation
+  - `cdw:` loads `$CDW` array to data stack `$S`.
+  - `je:` converts TOS (top of stack item) using `json_encdoe()`.
+  - `s:` displays all items on the stack `$S`.
+
+
+2. Add `h2` and `h3` to `g_hello`:
 ```
 php phos.php \
 : h0 hello   enl: \; \
@@ -131,3 +82,34 @@ s:
 ```
 
 <img src="https://github.com/udexon/GEISHA/blob/main/img/g_append_hello.png" width=600>
+
+- Explanation
+  - `cdw:` loads `$CDW` array to data stack `$S`.
+  - `=g_hello cdwka:` extracts colon definition of `g_hello`. `=` is an escape character to prevent execution of `g_hello`.
+  - `av:` executes `array_values()`.
+  - `0 i:` extracts first element of array.
+  - `s:` displays data stack `$S`.
+
+- At this point, `$S` is:
+```
+fgl_s 298 < 3 > array ( 0 => 'phos.php', 1 => array ( 'h0' => array ( 0 => 'hello', 1 => 'enl:', 2 => ';', ), 'h1' => array ( 0 => 'there', 1 => 'enl:', 2 => ';', ), 'h2' => array ( 0 => 'general', 1 => 'enl:', 2 => ';', ), 'h3' => array ( 0 => 'kenobi', 1 => 'enl:', 2 => ';', ), 'g_hello' => array ( 0 => 'h0', 1 => 'h1', 2 => ';', ), 'g_kenobi' => array ( 0 => 'h0', 1 => 'h1', 2 => 'h2', 3 => 'h3', 4 => ';', ), ), 2 => array ( 0 => 'h0', 1 => 'h1', 2 => ';', ), )
+```
+- TOS is:
+  - `2 => array ( 0 => 'h0', 1 => 'h1', 2 => ';', ), )`
+
+- Further operations:
+  - `=h2 dc0: ap: asw:` adds `h2` to TOS.
+  - `=h3 dc0: ap: asw:` adds `h3` to TOS.
+
+- Finally, `$S` is:
+```
+fgl_s 298 < 3 > array ( 0 => 'phos.php', 1 => array ( 'h0' => array ( 0 => 'hello', 1 => 'enl:', 2 => ';', ), 'h1' => array ( 0 => 'there', 1 => 'enl:', 2 => ';', ), 'h2' => array ( 0 => 'general', 1 => 'enl:', 2 => ';', ), 'h3' => array ( 0 => 'kenobi', 1 => 'enl:', 2 => ';', ), 'g_hello' => array ( 0 => 'h0', 1 => 'h1', 2 => ';', ), 'g_kenobi' => array ( 0 => 'h0', 1 => 'h1', 2 => 'h2', 3 => 'h3', 4 => ';', ), ), 2 => array ( 0 => 'h0', 1 => 'h1', 2 => 'h2', 3 => 'h3', 4 => ';', ), )
+```
+- TOS is:
+```
+2 => array ( 0 => 'h0', 1 => 'h1', 2 => 'h2', 3 => 'h3', 4 => ';', )
+```
+
+We shall stop here and let readers figure out how to put this array into `$CDW`, the global array for Colon Definition Words.
+
+Phoscript and Forth simplifies programming and metaprogramming by removing the list of parameters from the function definition, as the stack machine mechanisms handle them elegantly. This perhaps removes the biggest obstacle in metaprogramming.
