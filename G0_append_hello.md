@@ -103,3 +103,14 @@ cdw: je: s:
 ```
 
 <img src="https://github.com/udexon/GEISHA/blob/main/img/g_hello_cdw.png" width=600>
+
+```js
+{
+"h0":["hello","enl:",";"],
+"h1":["there","enl:",";"],
+"h2":["general","enl:",";"],
+"h3":["kenobi","enl:",";"],
+"g_hello":["h0","h1",";"],
+"g_kenobi":["h0","h1","h2","h3",";"]
+}
+```
