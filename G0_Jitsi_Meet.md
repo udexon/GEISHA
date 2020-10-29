@@ -62,7 +62,7 @@ there
 general
 kenobi
 
-php phos.php \
+$ php phos.php \
 : g_kenobi hello enl: there enl: general enl: kenobi enl: \; \
 g_kenobi
 hello
@@ -73,7 +73,7 @@ kenobi
 
 <img src="https://github.com/udexon/GEISHA/blob/main/img/g_kenobi.png" width=600>
 
-<img src="https://github.com/udexon/GEISHA/blob/main/img/g_kenobi_png.png" width=600>
+<img src="https://github.com/udexon/GEISHA/blob/main/img/g_kenobi_php.png" width=600>
 
 ```php
 <?php
