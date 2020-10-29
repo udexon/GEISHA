@@ -114,3 +114,20 @@ cdw: je: s:
 "g_kenobi":["h0","h1","h2","h3",";"]
 }
 ```
+
+```
+php phos.php \
+: h0 hello   enl: \; \
+: h1 there   enl: \; \
+: h2 general enl: \; \
+: h3 kenobi  enl: \; \
+\
+: g_hello  h0 h1 \; \
+: g_kenobi h0 h1 h2 h3 \; \
+cdw: =g_hello cdwka: av: 0 i: s: \
+=h2 dc0: ap: asw: \
+=h3 dc0: ap: asw: \
+s:
+```
+
+<img src="https://github.com/udexon/GEISHA/blob/main/img/g_append_hello.png" width=600>
