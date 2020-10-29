@@ -111,6 +111,14 @@ function enl($s)
 
 - B2. Let us consider the task given to a programmer, to simply extend `g_hello` to `g_kenobi`.
 
+We believe the readers would agree that any programmer with minimal competence KNOWS how to do it.
+
+- However, is it possible to describe this task (B2) in code?
+
+So, this is the secret of metaprogramming &mdash; to write a piece of code that describe the process of producing another piece of code.
+
+<hr>
+
 G0 is simply any program written by human programmers which does not change by itself. 
 
 We may euphemistically call G0 "Geisha Doll" or "Geisha Dummy".
