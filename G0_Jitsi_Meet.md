@@ -116,9 +116,9 @@ We believe the readers would agree that any programmer with minimal competence K
 
 - _However, is it possible to describe this task (B2) in code?_
 
-So, this is the secret of metaprogramming &mdash; _to write a piece of code that describe the process of producing another piece of code_.
+So, this is the secret of metaprogramming &mdash; _to write a piece of code that describes the process of producing another piece of code_.
 
-Here, Phoscript, derived from Forth, provides a solution
+Here, Phoscript, derived from Forth, provides a solution.
 
 Consider the "colon definition" for `g_hello` and `g_kenobi`:
 ```
@@ -143,6 +143,8 @@ append h2 h3 to g_hello
 ```
 
 We shall not over-complicate the discussions for now with the detailed internal structure of Phoscript PHP where the colon definition words (CDW) are kept in an array. We shall satisfy ourselves with a solution in the form of psedocode, and we invite interested readers to work out the complete solution, which we shall explain in a future tutorial.
+
+Phoscript and Forth simplifies programming and metaprogramming by removing the list of parameters from the function definition, as the stack machine mechanisms handle them elegantly. This perhaps removes the biggest obstacle in metaprogramming.
 
 
 <hr>
