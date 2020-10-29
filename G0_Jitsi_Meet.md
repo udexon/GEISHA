@@ -56,6 +56,11 @@ void G0()
 ```
 
 ```
+php phos.php \
+: g_hello hello enl: there enl: \; \
+g_hello
+
+
 $ php phos.php hello enl: there enl: general enl: kenobi enl:
 hello
 there
@@ -70,6 +75,10 @@ there
 general
 kenobi
 ```
+<img src="https://github.com/udexon/GEISHA/blob/main/img/g_hello.png" width=600>
+
+<img src="https://github.com/udexon/GEISHA/blob/main/img/g_hello_php.png" width=600>
+
 
 <img src="https://github.com/udexon/GEISHA/blob/main/img/g_kenobi.png" width=600>
 
@@ -82,6 +91,18 @@ enl("hello");
 enl("there");
 enl("general");
 enl("kenobi");
+
+function enl($s)
+{
+    echo $s."\n";
+}
+```
+
+```php
+<?php
+
+enl("hello");
+enl("there");
 
 function enl($s)
 {
