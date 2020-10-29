@@ -57,9 +57,9 @@ void G0()
 
 ### B. 
 
-In this section, we use GEISHA(0)/G0 to analyze 2 simple programs:
-- Program g_hello: `print "hello\n" "there\n"`
-- Program g_kenobi: `print "hello\n" "there\n" "general\n" "kenobi\n"`
+- B1. In this section, we use GEISHA(0)/G0 to analyze 2 simple programs:
+  - Program g_hello: `print "hello\n" "there\n"`
+  - Program g_kenobi: `print "hello\n" "there\n" "general\n" "kenobi\n"`
 
 1. Program g_hello: print "hello\n" "there\n"
 - Phoscript:
@@ -109,7 +109,7 @@ function enl($s)
 ```
 <img src="https://github.com/udexon/GEISHA/blob/main/img/g_kenobi_php.png" width=600>
 
-
+- B2. Let us consider the task given to a programmer, to simply extend `g_hello` to `g_kenobi`.
 
 G0 is simply any program written by human programmers which does not change by itself. 
 
