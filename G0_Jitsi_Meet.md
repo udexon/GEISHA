@@ -132,7 +132,7 @@ Let us further simplify the code above:
 : h1 there   enl: \; \
 : h2 general enl: \; \
 : h3 kenobi  enl: \; \
-
+\
 : g_hello  h0 h1 \; \
 : g_kenobi h0 h1 h2 h3 \; \
 ```
