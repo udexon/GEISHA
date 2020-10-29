@@ -71,6 +71,9 @@ general
 kenobi
 ```
 
+<img src="https://github.com/udexon/GEISHA/blob/main/img/g_kenobi.png" width=600>
+
+
 G0 is simply any program written by human programmers which does not change by itself. 
 
 We may euphemistically call G0 "Geisha Doll" or "Geisha Dummy".
