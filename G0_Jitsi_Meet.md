@@ -61,11 +61,15 @@ Let us consider 2 simple programs:
 
 
 1. Program g_hello: print "hello\n" "there\n"
+- Phoscript:
 ```
 php phos.php \
 : g_hello hello enl: there enl: \; \
 g_hello
 ```
+<img src="https://github.com/udexon/GEISHA/blob/main/img/g_hello.png" width=600>
+
+- PHP:
 ```php
 <?php
 
@@ -77,23 +81,18 @@ function enl($s)
     echo $s."\n";
 }
 ```
-
-
-<img src="https://github.com/udexon/GEISHA/blob/main/img/g_hello.png" width=600>
-
 <img src="https://github.com/udexon/GEISHA/blob/main/img/g_hello_php.png" width=600>
 
 2. Program g_kenobi: print "hello\n" "there\n" "general\n" "kenobi\n"
+- Phoscript:
 ```
-$ php phos.php \
+php phos.php \
 : g_kenobi hello enl: there enl: general enl: kenobi enl: \; \
 g_kenobi
 ```
-
 <img src="https://github.com/udexon/GEISHA/blob/main/img/g_kenobi.png" width=600>
 
-<img src="https://github.com/udexon/GEISHA/blob/main/img/g_kenobi_php.png" width=600>
-
+- PHP:
 ```php
 <?php
 
@@ -107,6 +106,8 @@ function enl($s)
     echo $s."\n";
 }
 ```
+<img src="https://github.com/udexon/GEISHA/blob/main/img/g_kenobi_php.png" width=600>
+
 
 
 G0 is simply any program written by human programmers which does not change by itself. 
