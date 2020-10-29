@@ -55,30 +55,40 @@ void G0()
 }
 ```
 
+### B. 
+
+Let us consider 2 simple programs:
+
+
+1. Program g_hello: print "hello\n" "there\n"
 ```
 php phos.php \
 : g_hello hello enl: there enl: \; \
 g_hello
-
-
-$ php phos.php hello enl: there enl: general enl: kenobi enl:
-hello
-there
-general
-kenobi
-
-$ php phos.php \
-: g_kenobi hello enl: there enl: general enl: kenobi enl: \; \
-g_kenobi
-hello
-there
-general
-kenobi
 ```
+```php
+<?php
+
+enl("hello");
+enl("there");
+
+function enl($s)
+{
+    echo $s."\n";
+}
+```
+
+
 <img src="https://github.com/udexon/GEISHA/blob/main/img/g_hello.png" width=600>
 
 <img src="https://github.com/udexon/GEISHA/blob/main/img/g_hello_php.png" width=600>
 
+2. Program g_kenobi: print "hello\n" "there\n" "general\n" "kenobi\n"
+```
+$ php phos.php \
+: g_kenobi hello enl: there enl: general enl: kenobi enl: \; \
+g_kenobi
+```
 
 <img src="https://github.com/udexon/GEISHA/blob/main/img/g_kenobi.png" width=600>
 
@@ -98,17 +108,6 @@ function enl($s)
 }
 ```
 
-```php
-<?php
-
-enl("hello");
-enl("there");
-
-function enl($s)
-{
-    echo $s."\n";
-}
-```
 
 G0 is simply any program written by human programmers which does not change by itself. 
 
