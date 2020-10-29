@@ -57,8 +57,9 @@ void G0()
 
 ### B. 
 
-Let us consider 2 simple programs:
-
+In this section, we use GEISHA(0)/G0 to analyze 2 simple programs:
+- Program g_hello: `print "hello\n" "there\n"`
+- Program g_kenobi: `print "hello\n" "there\n" "general\n" "kenobi\n"`
 
 1. Program g_hello: print "hello\n" "there\n"
 - Phoscript:
