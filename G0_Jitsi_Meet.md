@@ -137,6 +137,12 @@ Let us further simplify the code above:
 : g_kenobi h0 h1 h2 h3 \; \
 ```
 
+So the solution for task B2 is, in pseudocode:
+```
+append h2 h3 to g_hello
+```
+
+We shall not over-complicate the discussions for now with the detailed internal structure of Phoscript PHP where the colon definition words (CDW) are kept in an array. We shall satisfy ourselves with a solution in the form of psedocode, and we invite interested readers to work out the complete solution, which we shall explain in a future tutorial.
 
 
 <hr>
