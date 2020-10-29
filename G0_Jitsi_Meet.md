@@ -73,6 +73,21 @@ kenobi
 
 <img src="https://github.com/udexon/GEISHA/blob/main/img/g_kenobi.png" width=600>
 
+<img src="https://github.com/udexon/GEISHA/blob/main/img/g_kenobi_png.png" width=600>
+
+```php
+<?php
+
+enl("hello");
+enl("there");
+enl("general");
+enl("kenobi");
+
+function enl($s)
+{
+    echo $s."\n";
+}
+```
 
 G0 is simply any program written by human programmers which does not change by itself. 
 
