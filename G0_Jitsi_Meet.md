@@ -55,6 +55,21 @@ void G0()
 }
 ```
 
+```
+$ php phos.php hello enl: there enl: general enl: kenobi enl:
+hello
+there
+general
+kenobi
+
+php phos.php \
+: g_kenobi hello enl: there enl: general enl: kenobi enl: \; \
+g_kenobi
+hello
+there
+general
+kenobi
+```
 
 G0 is simply any program written by human programmers which does not change by itself. 
 
