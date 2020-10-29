@@ -84,6 +84,7 @@ function enl($s)
 ```
 <img src="https://github.com/udexon/GEISHA/blob/main/img/g_hello_php.png" width=600>
 
+
 2. Program g_kenobi: print "hello\n" "there\n" "general\n" "kenobi\n"
 - Phoscript:
 ```
@@ -113,9 +114,30 @@ function enl($s)
 
 We believe the readers would agree that any programmer with minimal competence KNOWS how to do it.
 
-- However, is it possible to describe this task (B2) in code?
+- _However, is it possible to describe this task (B2) in code?_
 
-So, this is the secret of metaprogramming &mdash; to write a piece of code that describe the process of producing another piece of code.
+So, this is the secret of metaprogramming &mdash; _to write a piece of code that describe the process of producing another piece of code_.
+
+Here, Phoscript, derived from Forth, provides a solution
+
+Consider the "colon definition" for `g_hello` and `g_kenobi`:
+```
+: g_hello hello enl: there enl: \; \
+: g_kenobi hello enl: there enl: general enl: kenobi enl: \; \
+```
+
+Let us further simplify the code above:
+```
+: h0 hello   enl: \; \
+: h1 there   enl: \; \
+: h2 general enl: \; \
+: h3 kenobi  enl: \; \
+
+: g_hello  h0 h1 \; \
+: g_kenobi h0 h1 h2 h3 \; \
+```
+
+
 
 <hr>
 
