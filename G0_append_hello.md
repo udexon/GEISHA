@@ -100,7 +100,10 @@ fgl_s 298 < 3 > array ( 0 => 'phos.php', 1 => array ( 'h0' => array ( 0 => 'hell
 - Further operations:
   - `=h2 dc0: ap: asw:` adds `h2` to TOS.
   - `=h3 dc0: ap: asw:` adds `h3` to TOS.
-
+    - `=h2 dc0:` drops first character of `=h2`. `=` is an escape character to prevent executing `h2`.
+    - `ap:` appends `h2` to TOS.
+    - `asw:` swaps last two elements of array, as `;` is the last element.
+    
 - Finally, `$S` is:
 ```
 fgl_s 298 < 3 > array ( 0 => 'phos.php', 1 => array ( 'h0' => array ( 0 => 'hello', 1 => 'enl:', 2 => ';', ), 'h1' => array ( 0 => 'there', 1 => 'enl:', 2 => ';', ), 'h2' => array ( 0 => 'general', 1 => 'enl:', 2 => ';', ), 'h3' => array ( 0 => 'kenobi', 1 => 'enl:', 2 => ';', ), 'g_hello' => array ( 0 => 'h0', 1 => 'h1', 2 => ';', ), 'g_kenobi' => array ( 0 => 'h0', 1 => 'h1', 2 => 'h2', 3 => 'h3', 4 => ';', ), ), 2 => array ( 0 => 'h0', 1 => 'h1', 2 => 'h2', 3 => 'h3', 4 => ';', ), )
