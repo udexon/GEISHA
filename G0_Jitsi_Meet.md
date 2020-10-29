@@ -142,9 +142,23 @@ So the solution for task B2 is, in pseudocode:
 append h2 h3 to g_hello
 ```
 
-We shall not over-complicate the discussions for now with the detailed internal structure of Phoscript PHP where the colon definition words (CDW) are kept in an array. We shall satisfy ourselves with a solution in the form of psedocode, and we invite interested readers to work out the complete solution, which we shall explain in a future tutorial.
+- https://github.com/udexon/GEISHA/blob/main/G0_append_hello.md
 
 Phoscript and Forth simplifies programming and metaprogramming by removing the list of parameters from the function definition, as the stack machine mechanisms handle them elegantly. This perhaps removes the biggest obstacle in metaprogramming.
+
+
+### C.
+
+Although the examples above involving a program that prints two words and another that prints four words may seem trivial, they however demonstrate a very important aspect in constructing aritificial intelligence algorithms:
+- to have a rigorous notation for specifying goals and steps for achieving the goals.
+
+To elaborate, consider the following problems:
+
+1. A cylindrical shape robot which needs to turn X degrees in order to face a target, before moving forward to reach it.
+
+2. An autonomous car which needs to make N turns, traveling K kilometres to reach a destination.
+
+Both problems have similar structure as the greeting problem in B, i.e. the solutions involve concatenation of steps.
 
 
 <hr>
@@ -153,6 +167,7 @@ G0 is simply any program written by human programmers which does not change by i
 
 We may euphemistically call G0 "Geisha Doll" or "Geisha Dummy".
 
+We shall not over-complicate the discussions for now with the detailed internal structure of Phoscript PHP where the colon definition words (CDW) are kept in an array. We shall satisfy ourselves with a solution in the form of psedocode, and we invite interested readers to work out the complete solution, which we shall explain in a future tutorial.
 
 
 There are at least two good signs concerning the robutness of the theory of GEISHA:
