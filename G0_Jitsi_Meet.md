@@ -160,6 +160,23 @@ To elaborate, consider the following problems:
 
 Both problems have similar structure as the greeting problem in B, i.e. the solutions involve concatenation of steps.
 
+What differentiates C1, C2 from B1, B2 are obviously what we may call "terminating conditions":
+
+1. The terminating conditions in C1 and C2 are obviously something that are preset by a human operator. 
+
+2. B1 and B2 appear to be very "small" parts of some bigger functions.
+
+### D.
+
+1. The primary goals of a human baby are:
+- a. food
+- b. guardians
+
+2. We should perhaps design the simplest Human Level Artificial Intelligence systems (HLAI) to mimick the simplest forms of human beings i.e. human babies.
+
+3. The ultimate goal of HLAI would be to mimick human programmers &mdash; so that it is able to comprehend the programs that create it and modify them.
+
+At a theoretical level, a HLAI that is produced using GEISHA may NOT follow instructions by human operators. We shall leave this "ethical issues" to a later discussion.
 
 <hr>
 
