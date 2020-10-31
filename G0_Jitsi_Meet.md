@@ -24,6 +24,14 @@ Fear Not! We shall explain and disclose all our secrets, where readers may exami
 
 Degrees of GEISHA: highest number of g functions (graph bottom up search) in between h functions.
 
+
+### C. Complexities of Integrated Development Environment Systems (IDE)
+                                                                                                                                            
+Android Studio could very well represent the complexities of today's Integrated Development Environment systems (IDE), which perhaps has the largest number of regular users.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+
+
+
+
 G.
 
 Has a project like Jitsi Meet, want to add OpenCV to it. How?
