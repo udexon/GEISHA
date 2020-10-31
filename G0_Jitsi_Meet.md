@@ -11,7 +11,7 @@ _(We have decided to use TechSing as the abbreviation for "Technological Singula
 
 We believe we have conceived a rigourous and measurable model for human level artificial intelligence (HLAI), which may be used to incrementally construct HLAI, and beyond, based on ordinary code written by mortal programmers on a daily basis. 
 
-In addition, this model, known as GEISHA (Graph Enhance Intelligent Search with Homoiconic Actions), can be used as a ___universal software management system___, combining the features of Bash shell, GitHub and Integrated Development Environment (IDE).
+In addition, this model, known as GEISHA (Graph Enhance Intelligent Search with Homoiconic Actions), can be used as a ___universal software management system___, combining the features of Unix shells, GitHub and Integrated Development Environment (IDE).
 
 - _Does this sound too good to be true?_
 
