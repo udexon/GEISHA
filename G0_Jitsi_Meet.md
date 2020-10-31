@@ -3,9 +3,13 @@
 
 The hype for artificial intelligence peaked briefly when Alpha Go defeated human Go player Lee Sedol in 2016.
 
-Are we still on course to "Technological Singularity" (TechSing)? (We have decided to use TechSing as the abbreviation for "Technological Singularity" to avoid confusion with the increasingly popular programming langauge TypeScript.)
+- Are we still on course to "Technological Singularity" (TechSing)? 
 
-How is TechSing relevant to day to day programming activities of us mere mortal programmers?
+_(We have decided to use TechSing as the abbreviation for "Technological Singularity" to avoid confusion with the increasingly popular programming langauge TypeScript.)_
+
+- How is TechSing relevant to day to day programming activities of us mere mortal programmers?
+
+We believe we have conceived a rigourous and measurable model for human level artificial intelligence (HLAI), which may be used to incrementally construct HLAI, and beyond, based on ordinary code written by mortal programmers on a daily basis. 
 
 
 
