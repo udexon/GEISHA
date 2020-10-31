@@ -20,8 +20,9 @@ In addition, this model, known as GEISHA (Graph Enhance Intelligent Search with 
 
 Fear Not! We shall explain and disclose all our secrets, where readers may examine them closely, one step at a time. We believe this particular property of allowing readers ___to examine and verify every step of our model___ is unique compared to various other existing HLAI models.
 
+### B. [Definition of GEISHA](https://github.com/udexon/GEISHA/blob/main/README.md)
 
-E. Degrees of GEISHA: highest number of g functions (graph bottom up search) in between h functions.
+Degrees of GEISHA: highest number of g functions (graph bottom up search) in between h functions.
 
 G.
 
