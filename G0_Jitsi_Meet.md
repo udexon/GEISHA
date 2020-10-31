@@ -1,5 +1,49 @@
 ## _GEISHA(0)_: Proof of Human Level Artificial Intelligence by Induction & a Universal Software Management System
 
+
+E. Degrees of GEISHA: highest number of g functions (graph bottom up search) in between h functions.
+
+G.
+
+Has a project like Jitsi Meet, want to add OpenCV to it. How?
+
+Why? Because mimicking human programmers. Multiple skills. Able to modify self (program). 
+
+Programmers write code (HLAI) to mimic programmers.- should be the team of tutorial
+
+Show how GEISHA0 manages the following
+
+1. OpenCV
+2. Tensorflow Bodypix
+3. Jitsi Meet
+4. Three.js canvas recording download
+
+Capture screenshot and download video, save in PhosGraph.
+
+List old articles
+
+
+F.
+
+1. It may seem a big detour to have gone through a discussion on HLAI mimicking human programmers but we believe this is necessary as it exposes the relevant challenges and basic implementations of GEISHA, with respect to a practical Universal Software Management System that can be deployed immediately.
+
+To be more precise, we have chosen Jitsi Meet as the platform to implement GEISHA, as it is completely open source and already has all the basic functionalities for a robotic system: live stream vision, networking etc.
+
+2. GEISHA will be used to solve some very practical software engineering problems faced by programmers, such as:
+- How to keep track of the complex code base which grow daily from new commits from other programmers?
+- How to manage and maintain new modules added by myself?
+- How to maintain and manage a base module like Jitsi Meet while completely new functionalities such as image processing from OpenCV are added?
+- Is it possible to test any function within GEISHA like in bash shell?
+
+3. From the perspective of GEISHA being a model of HLAI, we plan to include ALL functions ever (and will be) written by human programmers in its graph database of homoiconic functions.
+
+Jitsi Meet, Tensorflow Bodypix (included in Jitsi Meet) and OpenCV are the starting points of this exercise.
+
+
+
+
+
+
 - _A Dummy Artificial Intelligence System (DAIS) executes a program faithfully, one instruction after another, just like how a computer would, without making changes._
 
 Although thatemthe ent above may sound counterintuitive, it however critically serves as a ___case 0 in a proof of induction for human level artificial intelligence (HLAI)___, called GEISHA (Graph Enhanced Intelligent Search with Homoiconic Actions). 
