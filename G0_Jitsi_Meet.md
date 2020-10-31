@@ -11,6 +11,11 @@ _(We have decided to use TechSing as the abbreviation for "Technological Singula
 
 We believe we have conceived a rigourous and measurable model for human level artificial intelligence (HLAI), which may be used to incrementally construct HLAI, and beyond, based on ordinary code written by mortal programmers on a daily basis. 
 
+In addition, this model, known as GEISHA (Graph Enhance Intelligent Search with Homoiconic Actions), can be used as a ___universal software management system___, combining the features of Bash shell, GitHub and Integrated Development Environment (IDE).
+
+- _Does this sound too good to be true?_
+
+Fear Not! We shall explain and disclose all our secrets, where readers may examine them closely, one step at a time. We believe this particular property of allowing readers ___to examine and verify every step of our model___ is unique compared to various other existing HLAI models.
 
 
 E. Degrees of GEISHA: highest number of g functions (graph bottom up search) in between h functions.
