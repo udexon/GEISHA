@@ -1,6 +1,14 @@
 ## _GEISHA(0)_: Proof of Human Level Artificial Intelligence by Induction & a Universal Software Management System
 
 
+The hype for artificial intelligence peaked briefly when Alpha Go defeated human Go player Lee Sedol in 2016.
+
+Are we still on course to "Technological Singularity" (TechSing)? (We have decided to use TechSing as the abbreviation for "Technological Singularity" to avoid confusion with the increasingly popular programming langauge TypeScript.)
+
+How is TechSing relevant to day to day programming activities of us mere mortal programmers?
+
+
+
 E. Degrees of GEISHA: highest number of g functions (graph bottom up search) in between h functions.
 
 G.
