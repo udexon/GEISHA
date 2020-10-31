@@ -1,4 +1,7 @@
-## _GEISHA(0)_: Proof of Human Level Artificial Intelligence by Induction & a Universal Software Management System
+## GEISHA (Graph Enhanced Intelligent Search with Homoiconic Actions): Towards Human Level Artificial Intelligence with a Practical Universal Software Management System
+
+
+- _GEISHA(0)_: Proof of Human Level Artificial Intelligence by Induction & a Universal Software Management System
 
 
 The hype for artificial intelligence peaked briefly when Alpha Go defeated human Go player Lee Sedol in 2016.
