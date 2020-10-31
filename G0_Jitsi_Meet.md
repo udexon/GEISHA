@@ -29,7 +29,16 @@ Degrees of GEISHA: highest number of g functions (graph bottom up search) in bet
                                                                                                                                             
 Android Studio could very well represent the complexities of today's Integrated Development Environment systems (IDE), which perhaps has the largest number of regular users.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
 
+Competing frameworks and programming languages
 
+TypeScript
+Angular
+React
+Golang
+Rust
+....
+
+Simple question: How to add OpenCV functions to Jitsi Meet?
 
 
 G.
